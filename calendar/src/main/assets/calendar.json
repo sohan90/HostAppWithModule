@@ -1,0 +1,4161 @@
+[
+  {
+    "id": 3,
+    "published_at": "2020-12-02T15:39:55.000Z",
+    "created_at": "2020-12-02T10:09:52.000Z",
+    "updated_at": "2020-12-25T03:05:22.000Z",
+    "calenderdetail": {
+      "states": [
+        {
+          "id": "0",
+          "name": "ఆంధ్రప్రదేశ్/आंध्र प्रदेश/Andhra Pradesh",
+          "code": "AP"
+        },
+        {
+          "id": "1",
+          "name": "अरुणाचल प्रदेश/Arunachal Pradesh",
+          "code": "AR"
+        },
+        {
+          "id": "2",
+          "name": "असम/Assam",
+          "code": "AS"
+        },
+        {
+          "id": "3",
+          "name": "बिहार/Bihar",
+          "code": "BR"
+        },
+        {
+          "id": "4",
+          "name": "छत्तीसगढ/Chhattisgarh",
+          "code": "CG"
+        },
+        {
+          "id": "5",
+          "name": "गोवा/Goa",
+          "code": "GA"
+        },
+        {
+          "id": "6",
+          "name": "ગુજરાત/गुजरात/Gujarat",
+          "code": "GJ"
+        },
+        {
+          "id": "7",
+          "name": "हरियाणा/Haryana",
+          "code": "HR"
+        },
+        {
+          "id": "8",
+          "name": "हिमाचल प्रदेश/Himachal Pradesh",
+          "code": "HR"
+        },
+        {
+          "id": "9",
+          "name": "झारखंड/Jharkhand",
+          "code": "JH"
+        },
+        {
+          "id": "10",
+          "name": "ಕರ್ನಾಟಕ/कर्नाटक/Karnataka",
+          "code": "KA"
+        },
+        {
+          "id": "11",
+          "name": "കേരളം/केरल/Kerala",
+          "code": "KL"
+        },
+        {
+          "id": "12",
+          "name": "मध्य प्रदेश/Madhya Pradesh",
+          "code": "MP"
+        },
+        {
+          "id": "13",
+          "name": "महाराष्ट्र/महाराष्ट्र/Maharashtra",
+          "code": "MH"
+        },
+        {
+          "id": "14",
+          "name": "मणिपूर/Manipur",
+          "code": "MN"
+        },
+        {
+          "id": "15",
+          "name": "मेघालय/Meghalaya",
+          "code": "ML"
+        },
+        {
+          "id": "16",
+          "name": "मिझोरम/Mizoram",
+          "code": "MZ"
+        },
+        {
+          "id": "17",
+          "name": "नागालँड/Nagaland",
+          "code": "NL"
+        },
+        {
+          "id": "18",
+          "name": "ओडिशा/Odisha",
+          "code": "OR"
+        },
+        {
+          "id": "19",
+          "name": "ਪੰਜਾਬ/पंजाब/Punjab",
+          "code": "PB"
+        },
+        {
+          "id": "20",
+          "name": "राजस्थान/Rajasthan",
+          "code": "RJ"
+        },
+        {
+          "id": "21",
+          "name": "सिक्किम/Sikkim",
+          "code": "SK"
+        },
+        {
+          "id": "22",
+          "name": "தமிழ் நாடு/Tamilnadu",
+          "code": "TN"
+        },
+        {
+          "id": "23",
+          "name": "తెలంగాణ/तेलंगाना/Telangana",
+          "code": "TS"
+        },
+        {
+          "id": "24",
+          "name": "त्रिपुरा/Tripura",
+          "code": "TS"
+        },
+        {
+          "id": "25",
+          "name": "उत्तर प्रदेश/Uttar Pradesh",
+          "code": "UP"
+        },
+        {
+          "id": "26",
+          "name": "उत्तराखंड/Uttarakhand",
+          "code": "UT"
+        },
+        {
+          "id": "27",
+          "name": "পশ্চিম বঙ্গ/पश्चिम बंगाल/West Bengal",
+          "code": "WB"
+        },
+        {
+          "id": "28",
+          "name": "अंडमान निकोबार/Andaman Nicobar",
+          "code": "AN"
+        },
+        {
+          "id": "29",
+          "name": "चंडीगढ़/Chandigarh",
+          "code": "CH"
+        },
+        {
+          "id": "30",
+          "name": "दादरा और नगर हवेली/Dadra and Nagar Haveli",
+          "code": "DD"
+        },
+        {
+          "id": "31",
+          "name": "दिल्ली/Delhi",
+          "code": "DL"
+        },
+        {
+          "id": "32",
+          "name": "जम्मू और कश्मीर/Jammu and Kashmir",
+          "code": "JK"
+        },
+        {
+          "id": "33",
+          "name": "लद्दाख/Ladakh",
+          "code": "LA"
+        },
+        {
+          "id": "34",
+          "name": "लक्षद्वीप/Lakshadweep",
+          "code": "LD"
+        },
+        {
+          "id": "35",
+          "name": "பாண்டிச்சேரி/पुदुचेरी/Puducherry",
+          "code": "PY"
+        }
+      ],
+      "holidays": {
+        "0": {
+          "1": [
+            {
+              "date": "14",
+              "Reason_EN": "మకర సంక్రాంతి/मकर संक्रान्ति/MAKARA SANKRANTI"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "గణతంత్ర దినోత్సవం/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "మహా శివరాత్రి/महा शिवरात्रि/MAHA SHIVARATRI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "బ్యాంకుల ఆర్థిక వార్షిక ముగింపు  సెలవుదినం/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "గుడ్ ఫ్రైడే/गुड फ्राइडे/GOOD FRIDAY"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ఉగాది/उगादी/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "డా. బి.ఆర్‌. అంబేడ్కర్ జయంతి/डॉ॰ बाबासाहेब आंबेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "కార్మిక దినోత్సవం/मई दिन/MAY DAY"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ఈద్-ఉల్-ఫితర్ (రంజాన్)/ईद उल-फ़ित्र(रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "ఈద్ అల్-అజ్ హా /ईद अल-अज़हा/EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "స్వాతంత్య్ర దినోత్సవం/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "మొహర్రం/मुहर्रम/MOHARAM"
+            },
+            {
+              "date": "31",
+              "Reason_EN": "శ్రీ కృష్ణాష్టమి/श्रीकृष्ण अष्टमी/SRI KRISHNA ASTAMI"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "గాంధీ జయంతి/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "విజయదశమి/विजयादशमी(दशहरा)/VIJAYA DASAMI"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "దీపావళి/दीपावली/DEEPAVALI "
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "క్రిస్మస్/क्रिसमस/CHRISTMAS"
+            }
+          ]
+        },
+        "1": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "नए साल का दिन/New Years Day"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "पोंगल/Pongal"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "20",
+              "Reason_EN": "राज्य दिवस/State Day"
+            }
+          ],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "बोहग बिहू/Bohag Bihu"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "महा अष्टमी/Maha Ashtami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "2": {
+          "1": [
+            {
+              "date": "15",
+              "Reason_EN": "माघ बिहु/Magh Bihu"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            },
+            {
+              "date": "31",
+              "Reason_EN": "मे-डम-मे-फी/Me-Dum-Me-Phi"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "बोहग बिहू/Bohag Bihu"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "3": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "22",
+              "Reason_EN": "बिहार दिवस/Bihar Day"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  / Eid Al-Azha  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "शहादत इमाम हुसैन 10 वीं मोहरम/SHAHADAT IMAM HUSSAIN 10th MOHARAM"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "10",
+              "Reason_EN": "छठ पूजा/Chhath Puja"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "4": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "28",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "13",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [
+            {
+              "date": "24",
+              "Reason_EN": "संत गुरु कबीर जयंती/ Saint Guru Kabeer Jayanti"
+            }
+          ],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "रक्षाबंधन/Raksha Bandhan"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "ईद ए मिलाद के बाद शुक्रवार/Friday following Eid e Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "18",
+              "Reason_EN": "गुरु घासीदास जयंती/Guru Ghasidas Jayanti"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "5": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "उगादि/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "गणेश चतुर्थी/Ganesh Chaturthi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            }
+          ],
+          "12": [
+            {
+              "date": "3",
+              "Reason_EN": "सेंट फ्रांसिस जेवियर का पर्व/Feast of St Francis Xavier"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "6": {
+          "1": [
+            {
+              "date": "14",
+              "Reason_EN": "મકર સંક્રાંતિ/मकर संक्रान्ति/Makara Sankranti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "પ્રજાસત્તાક દિન/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "મહા શિવરાત્રી/महा शिवरात्रि/MAHA SHIVARATHRI"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "હોળી બીજો દિવસ (ધુળેટી)/होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "બેંક વાર્ષિક બંધ/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "ઇસ્ટર પહેલાંનો શુક્રવાર/गुड फ्राइडे/GOOD FRIDAY"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "તેલુગુ નવું વર્ષ/उगादी/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ડૉ. બાબાસાહેબ આંબેડકરનો જન્મદિન/डॉ॰ बाबासाहेब आंबेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "શ્રી રામ નવમી/श्री राम नवमी/Shri Rama Navami"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "રમઝાન ઈદ (ઈદ ઉલ ફિત્ર)/ईद उल-फ़ित्र(रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "બકરી ઈદ /ईद अल-अज़हा /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "સ્વાતંત્ર્ય દિન/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "17",
+              "Reason_EN": "પારસી નવું વર્ષ/पारसी नववर्ष/Parsi New Year"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "મહોરમ/मुहर्रम/Muharram"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "રક્ષાબંધન/रक्षाबन्धन/Raksha Bandhan"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "જન્માષ્ટમી/जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "સંવત્સરી/गणेश चतुर्थी/Ganesh Chaturthi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "મહાત્મા ગાંધીનો જન્મદિન/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "દશેરા (વિજયા દશમી)/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "મિલાદૂન નાબી/ ईद-ए-मिलादुन्नबी /Eid-E-Milad-Un-Nabi"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ઈદ એ મિલાદ/मुहम्मद साहब जन्मदिन/Prophet's Birthday"
+            },
+            {
+              "date": "31",
+              "Reason_EN": "સરદાર વલ્લભાઈ પટેલનો જન્મદિન/सरदार वल्लभ भाई पटेल/Sardar Vallabhbhai Patel Jayanti"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "દિપાવલી/दीपावली/DEEPAVALI"
+            },
+            {
+              "date": "5",
+              "Reason_EN": "નૂતન વર્ષ દિન (બેસતું વર્ષ)/गुजराती नया साल/Gujarati New Year"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "વિક્રમ સંવત નવું વર્ષ/विक्रम संवत नव वर्ष/Vikram Samvat New Year"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ગુરુ નાનકનો જન્મદિવસ/गुरु नानक जयंती/GURU NANAK'S BIRTHDAY"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "નાતાલ/क्रिसमस/CHRISTMAS"
+            }
+          ]
+        },
+        "7": {
+          "1": [
+            {
+              "date": "20",
+              "Reason_EN": "गुरु गोविंद सिंह जयंती/Guru Gobind Singh Jayanti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "16",
+              "Reason_EN": "वसंत पंचमी/Vasant Panchami"
+            },
+            {
+              "date": "27",
+              "Reason_EN": "गुरु रविदास जयंती/Guru Ravidas Jayanti"
+            }
+          ],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "23",
+              "Reason_EN": "एस भगत सिंह का शहादत दिवस/S. Bhagat Singh's Martyrdom Day"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY/वैसाखी"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [
+            {
+              "date": "13",
+              "Reason_EN": "महाराणा प्रताप जयंती / महाराजा अग्रसेन जयंती/Maharana Pratap Jayanti/Maharaja Agrasen Jayanti"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "संत गुरु कबीर जयंती/ Saint Guru Kabeer Jayanti"
+            }
+          ],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            },
+            {
+              "date": "31",
+              "Reason_EN": "शहीद उधम सिंह का शहादत दिवस/Shaheed Udham Singh's Martyrdom Day"
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "रक्षाबंधन/Raksha Bandhan"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [
+            {
+              "date": "23",
+              "Reason_EN": "हीरो शहादत दिवस/Heroes' Martyrdom Day"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "11",
+              "Reason_EN": "हरियाली तीज/Haryali Teej/Haryali Teej"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "महर्षि परशुराम जयंती / महर्षि वाल्मीकि जयंती/Maharshi Parasuram Jayanti/Maharishi Valmiki Jayanti"
+            }
+          ],
+          "11": [
+            {
+              "date": "1",
+              "Reason_EN": "हरियाणा दिवस/Haryana Day"
+            },
+            {
+              "date": "4",
+              "Reason_EN": " दीपावली/Deepavali"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "शहीद उधम सिंह जयंती/Shaheed Udham Singh's Martyrdom Day"
+            }
+          ]
+        },
+        "8": {
+          "1": [
+            {
+              "date": "25",
+              "Reason_EN": "राज्य दिवस/State Day"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "27",
+              "Reason_EN": "गुरु रविदास जयंती/Guru Ravidas Jayanti"
+            }
+          ],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महा शिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "हिमाचल दिवस/Himachal Day"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [
+            {
+              "date": "13",
+              "Reason_EN": "महाराणा प्रताप जयंती/Maharana Pratap Jayanti"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "संत गुरु कबीर जयंती/ Saint Guru Kabeer Jayanti"
+            }
+          ],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "20",
+              "Reason_EN": "महर्षि परशुराम जयंती / महर्षि वाल्मीकि जयंती/Maharshi Parasuram Jayanti/Maharishi Valmiki Jayanti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "9": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "28",
+              "Reason_EN": "सरहुल/Sarhul"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "महा अष्टमी/Maha Ashtami"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "10",
+              "Reason_EN": "छठ पूजा/Chhath Puja"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "10": {
+          "1": [
+            {
+              "date": "14",
+              "Reason_EN": "ಮಕರ ಸಂಕ್ರಾಂತಿ/मकर संक्रान्ति/MAKARA SHANKARANTI"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "ಗಣರಾಜ್ಯೋತ್ಸವ/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "ಮಹಾ ಶಿವರಾತ್ರಿ/महा शिवरात्रि/MAHA SHIVARATRI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "ಬ್ಯಾಂಕ್‌ಗಳ ವಾರ್ಷಿಕ ಲೆಕ್ಕಪತ್ರದ ಮುಕ್ತಾಯ ದಿನ/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "ಗುಡ್ ಫ಼್ರೈಡೆ/गुड फ्राइडे/GOOD FRIDAY"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ಯುಗಾದಿ/उगादी/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ಡಾ. ಬಿ.ಆರ್.ಅಂಬೇಡ್ಕರ್ ಜಯಂತಿ/डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "ಮಹಾವೀರ ಜಯಂತಿ/महावीर जयंती/MAHAVEER JAYANTHI"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "ಕಾರ್ಮಿಕರ ದಿನಾಚರಣೆ/मई दिन/MAY DAY"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ಬಸವ ಜಯಂತಿ/ಅಕ್ಷಯ ತೃತೀಯ ,ಖುತುಬ್-ಎ-ರಂಜಾನ್/बसव जयंती/अक्षय तृतीया,ईद उल-फ़ित्र(रमजान)/BASAVA JAYANTHI/AKSHAYA TRITIYA ,EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "ಬಕ್ರೀದ್/ईद अल-अज़हा/EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ಮೊಹರಂ ಕಡೇ ದಿನ/मुहर्रम/MOHARAM"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "ವರಸಿದ್ಧಿ ವಿನಾಯಕ ವ್ರತ/वरसिद्धि विनायक व्रत/VARASIDDHI VINAYAKA VRATA"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "ಗಾಂಧಿ ಜಯಂತಿ/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "6",
+              "Reason_EN": "ಮಹಾಲಯ ಅಮಾವಾಸ್ಯೆ/महालय अमावस्या/MAHALAYA AMAVASYE"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ಮಹಾನವಮಿ/ಆಯುಧ ಪೂಜೆ/महानवमी आयुध पूजा/MAHANAVAMI AYUDHA POOJA"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "ವಿಜಯದಶಮಿ/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ಮಹರ್ಷಿ ವಾಲ್ಮೀಕಿ ಜಯಂತಿ, ಈದ್-ಮಿಲಾದ್/महर्षि वाल्मीकि जयंती, ईद-ए-मिलादुन्नबी/MAHARSHI VALMIKI JAYANTHI, Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "1",
+              "Reason_EN": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ/कन्नड़ राज्योत्सव/KANNADA RAJYOTHSAVA"
+            },
+            {
+              "date": "3",
+              "Reason_EN": "ನರಕ ಚತುರ್ದಶಿ/नरकचतुर्दशी/NARAKA CHATURDASHI"
+            },
+            {
+              "date": "5",
+              "Reason_EN": "ಬಲಿಪಾಡ್ಯಮಿ/ದೀಪಾವಳಿ/बलिप्रतिपदा,दीपावली/BALIPADYAMI,DEEPAVALI"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "ಕನಕದಾಸ ಜಯಂತಿ/कनकदास जयंती/KANAKADASA JAYANTHI"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "ಕ್ರಿಸ್‌ಮಸ್/क्रिसमस/CHRISTMAS"
+            }
+          ]
+        },
+        "11": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "റിപ്പബ്ലിക് ദിനം/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "മഹാ ശിവരാത്രി/महा शिवरात्रि/MAHA SHIVARATHRI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "വാർഷിക ക്ലോസിംഗ്/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "ദുഃഖവെള്ളി/गुड फ्राइडे/GOOD FRIDAY"
+            },
+            {
+              "date": "4",
+              "Reason_EN": "ഈസ്റ്റർ/ईस्टर/EASTER"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "അംബേദ്കർ ജയന്തി/डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "മെയ് ദിനം/मई दिन/MAY DAY"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "റംസാൻ/रमजान/RAMZAN"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ബക്രീദ്/ईद अल-अज़हा /EID UL AZHA "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "സ്വാതന്ത്യദിനം/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ഓണം/ओणम/ONAM"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "തിരുവോണം/थिरुवोणम/THIRUVONAM"
+            },
+            {
+              "date": "23",
+              "Reason_EN": "ശ്രീ നാരായണ ഗുരു ജയന്തി/श्री नारायण गुरु जयंती/SREE NARAYANA GURU JAYANTHY"
+            }
+          ],
+          "9": [
+            {
+              "date": "21",
+              "Reason_EN": "ശ്രീ നാരായണ ഗുരു സമാധി ദിനം/श्री नारायण गुरु समाधि दिवस/Sree Narayana Guru Samadhi Day"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "ഗാന്ധി ജയന്തി/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "മഹാനവമി/महानवमी/MAHANAVAMI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "വിജയ ദശമി/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "മിലാദ്-ഇ-ഷെരീഫ്/मिलाद-ए-शरीफ/Milad-i-Sherif"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "ദീപാവലി/दीपावली/DEEPAVALI"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "ക്രിസ്മസ്/क्रिसमस/CHRISTMAS"
+            }
+          ]
+        },
+        "12": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "रक्षाबंधन/Raksha Bandhan"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "महर्षि परशुराम जयंती/Maharishi Parshuram jayanti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "13": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "प्रजासत्ताक दिन/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "19",
+              "Reason_EN": "छत्रपती शिवाजी महाराज जयंती/छत्रपति शिवाजी महाराज जयंती/CHHATRAPATI SHIVAJI MAHARAJ JAYANTI"
+            }
+          ],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होळी/होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विविध प्रकरणांची वार्षिक बंदी/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्रायडे/गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "गुढी पाडवा/गुडी पडवा/Gudi Padwa"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर आंबेडकर जयंती/डॉ. बी आर अम्बेडकर जन्मदिन/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/राम नवमी/ Ram Navami"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "महाराष्ट्र दिन/महाराष्ट्र दिवस/Maharastra Day"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ईद उल-फ़ित्र (रमजान)/ईद उल-फ़ित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुद्ध पौर्णिमा/बुद्ध पूर्णिमा/Buddha Poornima"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "ईद-ऊल-अझा (बकरी ईद)  /ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वातंत्र्यदिन/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "पारसी नववर्ष/पारसी नया साल/ Parsi New Year"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "मोहरम/मुहर्रम/Muharram"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "गणेश चतुर्थी/गणेश चतुर्थी/Ganesh Chaturthi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ईद मिलादुन नबी /ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दिवाळी अमावस्या/दीवाली अमावस्या/Diwali Amavasya "
+            },
+            {
+              "date": "5",
+              "Reason_EN": "दिवाळी/दीपावली/Deepawali"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरु नानक जयंती/गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "नाताळ/क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "14": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "नए साल का दिन/New Years Day"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "15",
+              "Reason_EN": "लुई-गी-नी/Lui-Ngai-Ni"
+            }
+          ],
+          "3": [
+            {
+              "date": "21",
+              "Reason_EN": "याओसांग दूसरा दिन/Yaosang 2nd Day"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "साजिबू नोंगमापनबा (चीरोबा)/Sajibu Nongmapanba (Cheiraoba)"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "चीरोबा/Cheiraoba"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "13",
+              "Reason_EN": "देशभक्त दिवस/Patriot's Day"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "महा अष्टमी/Maha Ashtami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "1",
+              "Reason_EN": "कुट/Kut"
+            },
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "नववर्ष की पूर्वसंध्या/New Year's Eve"
+            }
+          ]
+        },
+        "15": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "नए साल का दिन/New Years Day"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "17",
+              "Reason_EN": "यू तिरोट गाओ दिवस/U Tirot Sing Day"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "13",
+              "Reason_EN": "वांगला महोत्सव/Wangala Festival"
+            },
+            {
+              "date": "23",
+              "Reason_EN": "सेंग कुट स्नेम/Seng Kut Snem"
+            }
+          ],
+          "12": [
+            {
+              "date": "18",
+              "Reason_EN": "यू सोसो थाम की पुण्यतिथि/Death Anniversary of U SoSo Tham"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "उ किआंग नंगबाह"
+            }
+          ]
+        },
+        "16": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "नए साल का दिन/New Years Day"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "17",
+              "Reason_EN": "यू तिरोट गाओ दिवस"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "13",
+              "Reason_EN": "वांगला महोत्सव/Wangala Festival"
+            },
+            {
+              "date": "23",
+              "Reason_EN": "सेंग कुट स्नेम/Seng Kut Snem"
+            }
+          ],
+          "12": [
+            {
+              "date": "18",
+              "Reason_EN": "यू सोसो थाम की पुण्यतिथि/Death Anniversary of U SoSo Tham"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "उ किआंग नंगबाह/U Kiang Nangbah"
+            }
+          ]
+        },
+        "17": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "नए साल का दिन/New Years Day"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "3",
+              "Reason_EN": "ईस्टर शनिवार/Easter Saturday"
+            },
+            {
+              "date": "4",
+              "Reason_EN": "ईस्टर रविवार/Easter Sunday"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "18": {
+          "1": [
+            {
+              "date": "23",
+              "Reason_EN": "ନେତାଜୀ ସୁଭାଷ ଚନ୍ଦ୍ର ବୋଷ ଜୟନ୍ତୀ/Netaji Subhas Chandra Bose Jayanti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "ରିପବ୍ଲିକ ଡେ/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "16",
+              "Reason_EN": "ବସନ୍ତ ପଞ୍ଚମୀ/Vasant Panchami/वसंत पंचमी"
+            }
+          ],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "ମହା ଶିବରାତ୍ରି / महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "ହୋଲି/होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "ଓଡ଼ିଶା ଡେ/ओडिशा दिवस/Odisha Day"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "ଗୁଡ ଫରାଇଡେ/गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ଡ: ଆମ୍ବେଦକର ଜୟନ୍ତୀ/डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "ରାମ ନବମୀ/ राम नवमी/ Ram Navami"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "ପଞ୍ଚାୟତିରାଜ ଦିବସ/पंचायतीराज दिवस/Panchayatiraj Divas"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ଇଦୁଲ ଫିତର/ईद दुल - फित्र(रमजान)/EID UL FITR(RAMZAN)"
+            }
+          ],
+          "6": [
+            {
+              "date": "15",
+              "Reason_EN": "ପହିଲି ରଜ / ରଜ ସଂକ୍ରାନ୍ତି /पहिली राजा/राजा संक्रांति/Pahili Raja/Raja Sankranti"
+            }
+          ],
+          "7": [
+            {
+              "date": "12",
+              "Reason_EN": "ରଥ ଯାତ୍ରା/रथ यत्र|/Ratha Yatra"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ବକରିଦ / ଇଦ ଅଲ ଆଧା/ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "3",
+              "Reason_EN": "ଝୁଲଣ ପୂର୍ଣିମା/झूलन पूर्णिमा/Jhulan Purnima"
+            },
+            {
+              "date": "10",
+              "Reason_EN": "ମହରମ/मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "ଇଣ୍ଡେପେଣ୍ଡେନ୍ସ ଡେ/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "23",
+              "Reason_EN": "ନୂଆଖାଇ / नुआखाई/Nuakhai"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "ଜନ୍ମାଷ୍ଟମୀ/जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "ଗଣେଶ ଚତୁର୍ଥୀ/गणेश चतुर्थी/Ganesh Chaturthi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "ଗାନ୍ଧି ଜୟନ୍ତୀ/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "6",
+              "Reason_EN": "ମହାଳୟା ଅମାବାସ୍ୟା/महालया अमावस्या/Mahalaya Amavasye"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ମହା ସପ୍ତମୀ /ମହା ଅଷ୍ଟମୀ/महा सप्तमी/महा अष्टमी/Maha Saptami/Maha Asthami "
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ମହା ନବମୀ/महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "ବିଜୟା ଦଶମୀ /विजयादशमी(दशहरा)/Vijaya Dashami"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ଇଦ ଇ ମିଲାଦ/ईद ए मिलाद/Eid-e-Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "ଲକ୍ଷ୍ମୀ ପୂଜା / ଦିୱାଲୀ/ दीवाली(दीपावली)/Diwali/Laxmi Pooja"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "କାର୍ତ୍ତିକ ପୂର୍ଣିମା / कार्तिक पूर्णिमा/Karthika Purnima"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "କ୍ରିସମାସ ଡେ/क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "19": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "ਗਣਤੰਤਰ ਦਿਵਸ/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "27",
+              "Reason_EN": "ਗੁਰੂ ਰਵਿਦਾਸ ਜਯੰਤੀ/गुरु रविदास जयंती/Guru Ravidas Jayanti"
+            }
+          ],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "ਮਹਾ ਸ਼ਿਵਰਾਤਰੀ/महाशिवरात्रि/MAHA SHIVARATHRI"
+            },
+            {
+              "date": "23",
+              "Reason_EN": "ਸਰਦਾਰ ਭਗਤ ਸਿੰਘ ਸ਼ਾਹੀਦੀ ਦਿਵਸ/एस भगत सिंह का शहादत दिवस/S. Bhagat Singh's Martyrdom Day"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "ਹੋਲੀ/होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "ਅਕਾਉਂਟ ਡੇਅ ਦਾ ਅੰਤਮ ਸਮਾਪਤੀ/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "6",
+              "Reason_EN": "ਮਹਾਵੀਰ ਜੈਅੰਤੀ/महावीर जयंती/Mahavir Jayanti"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ਡਾ. ਅੰਬੇਦਕਰ ਜੈਯੰਤੀ / ਵੈਸਾਖ/डॉ. बी आर अम्बेडकर जयंती/वैसाख/DR.B.R. AMBEDKAR BIRTHDAY/Vaisakh"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "ਰਾਮ ਨਵਮੀ/राम नवमी/Ram Navami"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ਈਦ ਉਲ ਫਿਤਰ(ਰਮਜ਼ਾਨ)/ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [
+            {
+              "date": "13",
+              "Reason_EN": "ਮਹਾਰਾਣਾ ਪ੍ਰਤਾਪ ਜਯੰਤੀ / ਮਹਾਰਾਜਾ ਅਗਰਸੇਨ ਜਯੰਤੀ/महाराणा प्रताप जयंती/महाराजा अग्रसेन जयंती/Maharana Pratap Jayanti/Maharaja Agrasen Jayanti"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "ਸੰਤ ਗੁਰੂ ਕਬੀਰ ਜੈਯੰਤੀ/संत गुरु कबीर जयंती/Sant Guru Kabir Jayanti"
+            }
+          ],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ਈਦ ਉਲ ਅਜ਼ਹਾ /ईद अल-अज़हा  /EID UL AZHA  "
+            },
+            {
+              "date": "31",
+              "Reason_EN": "ਸ਼ਹੀਦ ਊਧਮ ਸਿੰਘ ਦਾ ਸ਼ਹੀਦੀ ਦਿਵਸ/शहीद उधम सिंह शहादत दिवस /Shaheed Udham Singh's Martyrdom Day"
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "ਮੁਹੱਰਮ/मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "ਅਜਾਦੀ ਦਿਵਸ/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "ਰਕਸ਼ਾ ਬੰਧਨ/रक्षाबन्धन/Raksha Bandhan"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "ਜਨਮ ਅਸ਼ਟਮੀ/जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [
+            {
+              "date": "23",
+              "Reason_EN": "ਹੀਰੋਜ਼ ਦਾ ਸ਼ਹੀਦੀ ਦਿਵਸ/वीर एवं शहीदी दिवस/Heroes' Martyrdom Day"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "ਮਹਾਤਮਾ ਗਾਂਧੀ ਜੈਯੰਤੀ/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "11",
+              "Reason_EN": "ਹਰਿਆਲੀ ਤੀਜ/हरियाली तीज/Haryali Teej"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "ਵਿਜਯਾ ਦਸ਼ਮੀ/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ਈਦ ਏ ਮਿਲਦ/ईद-ए-मिलाद/Eid e Milad"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ਮਹਾਰਿਸ਼ੀ ਪਰਸੂਰਾਮ ਜੈਯੰਤੀ / ਮਹਾਰਿਸ਼ੀ ਵਾਲਮੀਕਿ ਜਯੰਤੀ/महर्षि परशुराम जयंती/महर्षि वाल्मीकि जयंती/Maharshi Parasuram Jayanti/Maharishi Valmiki Jayanti"
+            }
+          ],
+          "11": [
+            {
+              "date": "1",
+              "Reason_EN": "ਹਰਿਆਣਾ ਦਿਵਸ/हरियाणा दिवस/Haryana Day"
+            },
+            {
+              "date": "4",
+              "Reason_EN": "ਦੀਵਾਲੀ / ਦੀਪਾਵਲੀ/दिवाली/दीपावली/DIWALI/DEEPAVALI "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਦਾ ਜਨਮ ਦਿਨ/गुरू नानक जयंती/GURU NANAK'S BIRTHDAY"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "ਕ੍ਰਿਸਮਸ/क्रिसमस/CHRISTMAS"
+            }
+          ]
+        },
+        "20": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "नए साल का दिन/New Years Day"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "गुरु गोविंद सिंह जयंती/Guru Gobind Singh Jayanti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "उगादि/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY/वैसाखी"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [
+            {
+              "date": "13",
+              "Reason_EN": "महाराणा प्रताप जयंती / महाराजा अग्रसेन जयंती/Maharana Pratap Jayanti/Maharaja Agrasen Jayanti"
+            }
+          ],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "रक्षाबंधन/Raksha Bandhan"
+            },
+            {
+              "date": "28",
+              "Reason_EN": "रामदेव जयंती/Ramdev Jayanti"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [
+            {
+              "date": "16",
+              "Reason_EN": "तेजा दशमी/Teja Dashmi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "7",
+              "Reason_EN": "घट स्थापना/Ghatasthapana"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "महा अष्टमी/Maha Ashtami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "महर्षि परशुराम जयंती/Maharshi Parasuram Jayanti"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली/ दीपावली/Diwali/Dipawali "
+            },
+            {
+              "date": "6",
+              "Reason_EN": "भाई दूज /Bhai Dooj"
+            },
+            {
+              "date": "6",
+              "Reason_EN": "दीपावली/Dipawali"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "21": {
+          "1": [
+            {
+              "date": "14",
+              "Reason_EN": "मकर संक्रांति/Makara Sankranti"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "सोनम लोसार/Sonam Losar"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "26",
+              "Reason_EN": " Losar"
+            }
+          ],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/Dr B R AMBEDKAR Jayanti"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "राज्य दिवस/State Day"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "13",
+              "Reason_EN": "भानु जयंती/Bhanu Jayanti"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "8",
+              "Reason_EN": "तेंदो ल्हो रम फाट/Tendong Lho Rum Faat"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [
+            {
+              "date": "30",
+              "Reason_EN": "इंद्र जात्रा/Indra Jatra"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "गांधी जयंती/ Gandhi Jayanti"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "महा सप्तमी / महा अष्टमी/Maha Ashtami"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली/ दीपावली/Diwali/Dipawali "
+            },
+            {
+              "date": "6",
+              "Reason_EN": "लहाब दुचेन / भाई दूज/Lhabab Duchen/Bhai Dooj"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "दीपावली/Dipawali"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "तामू लोसर/tamu Losar"
+            }
+          ]
+        },
+        "22": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "புத்தாண்டு திருநாள்/NEW YEAR'S DAY"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "பொங்கல்/தை திருநாள்/SANKRANTI / PONGAL"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "திருவள்ளுவர் திருநாள்/THIRUVALLUVAR DAY"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "உழவர் திருநாள்/UZHAVAR THIRUNAL"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "குடியரசு தினம்/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "வங்கிக் கணக்கு இறுதி நாள்/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "புனித வெள்ளி/GOOD FRIDAY"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "தெலுங்கு புத்தாண்டு/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "தமிழ் புத்தாண்டு தினம் & Dr.பி.ஆர். அம்பேத்கர் பிறந்த நாள்/Tamil New Year's Day & DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "மகாவீர் ஜெயந்தி/MAHAVEER JAYANTHI"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "தொழிலாளர்கள் தினம்/MAY DAY"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ரம்ஜான்/RAMZAN"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "பக்ரீத்/Eid Al Azha"
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "சுதந்திர தினம்/INDEPENDENCE DAY"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "மொஹரம்/MOHARAM"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "கிருஷ்ண ஜெயந்தி/SRI KRISHNA ASTAMI"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "விநாயகர் சதுர்த்தி/Ganesh Chaturthi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "மகாத்மா காந்தி ஜெயந்தி/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ஆயுத பூஜை/AYUTHA POOJA"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "விஜய தசமி/VIJAYA DASAMI"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ஈத் மிலாடி நபி/Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "தீபாவளி/DEEPAVALI"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "கிறிஸ்துமஸ்/CHRISTMAS"
+            }
+          ]
+        },
+        "23": {
+          "1": [
+            {
+              "date": "14",
+              "Reason_EN": "మకర సంక్రాంతి/मकर संक्रांति/Makara Sankranti/PONGAL"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "గణతంత్ర దినోత్సవం/गणतन्त्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "మహా శివరాత్రి//महाशिवरात्रि"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "హోలీ/होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "బ్యాంకుల ఆర్థిక వార్షిక ముగింపు  సెలవుదినం/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "గుడ్ ఫ్రైడే/गुड फ्राइडे/GOOD FRIDAY"
+            },
+            {
+              "date": "5",
+              "Reason_EN": "బాబు జగ్జీవన్ రామ్ జయంతి/बाबू जगजीवन राम जयंती/BABU JAGJIVAN RAM'S BIRTHDAY "
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ఉగాది/उगादी/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "డా. బి.ఆర్‌. అంబేడ్కర్ జయంతి/डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "శ్రీ రామ నవమి/श्री रामनवमी/SRI RAMA NAVAMI"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "కార్మిక దినోత్సవం/मई दिन/MAY DAY"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ఈద్-ఉల్-ఫితర్ (రంజాన్)/ईद उल-फ़ित्र(रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "ఈద్ అల్-అజ్ హా /ईद अल-अज़हा/EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "స్వాతంత్య్ర దినోత్సవం/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "మొహర్రం/मुहर्रम/MOHARAM"
+            },
+            {
+              "date": "31",
+              "Reason_EN": "శ్రీ కృష్ణాష్టమి/श्रीकृष्ण अष्टमी/SRI KRISHNA ASTAMI"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "వినాయక చవితి/गणेश चतुर्थी/VINAYAKA CHAVITHI"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "గాంధీ జయంతి/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "విజయదశమి/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ఈద్-ఎ-మీలాద్-ఉన్-నబీ/ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "దీపావళి/दीपावली/DEEPAVALI "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "కార్తీక పౌర్ణమి / గురు నానక్ జయంతి/कार्तिक पूर्णिमा/गुरु नानक जयंती/KARTIKA PURNIMA /GURU NANAK'S BIRTHDAY"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "క్రిస్మస్/क्रिसमस/CHRISTMAS"
+            }
+          ]
+        },
+        "24": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "16",
+              "Reason_EN": "वसंत पंचमी/Vasant Panchami"
+            }
+          ],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "बंगाली नव वर्ष / गरिया पूजा/Bengali New Year /Garia Puja"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "Guru Rabindranath Jayanti"
+            },
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "काजी नजरूल इस्लाम जयंती/Kazi Nazrul Islam Jayanti"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            },
+            {
+              "date": "27",
+              "Reason_EN": "खारची पूजा/Kharchi Puja"
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "गांधी जयंती/Gandhi Jayanti"
+            },
+            {
+              "date": "6",
+              "Reason_EN": "महालया अमावस्या/Mahalaya Amavasye"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "महा सप्तमी/ महा अष्टमी/Maha Saptmi/Maha Ashtami"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली/दीपावली/Diwali/Dipawali "
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "25": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "9",
+              "Reason_EN": "हजरत अली जयंती/Hazrat Ali Jayanti"
+            },
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर/Dr. B R AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "10",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "रक्षाबंधन/Raksha Bandhan"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "गांधी जयंती/Gandhi Jayanti"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली/ दीपावली/Diwali/Dipawali "
+            },
+            {
+              "date": "4",
+              "Reason_EN": "भाई दूज/Bhai Dooj"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "दीपावली/Dipawali"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "26": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर/Dr. B R AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "रक्षाबंधन/Raksha Bandhan"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "गांधी जयंती/Gandhi Jayanti"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली/दीपावली/Diwali/Dipawali "
+            },
+            {
+              "date": "6",
+              "Reason_EN": "भाई दूज/Bhai Dooj"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "दीपावली/Dipawali"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "27": {
+          "1": [
+            {
+              "date": "23",
+              "Reason_EN": "নেতাজি সুভাষ চন্দ্র বসু জয়ন্তী/नेताजी सुभाष चन्द्र बोस जयंती/Netaji Subhas Chandra Bose Jayanti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "প্রজাতন্ত্র দিবস/गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "4",
+              "Reason_EN": "স্বামী বিবেকানন্দ জয়ন্তী/स्वामी विवेकानन्द जयंती /Swami Vivekananda Jayanti"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "বসন্ত পঞ্চমী/वसन्त पञ्चमी/Vasant Panchami"
+            }
+          ],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "হোলি/होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "বাৎসরিক হিসাব সমাপ্তি/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "গুড ফ্রাইডে/गुड फ्राइडे/GOOD FRIDAY"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ডা.আম্বেদকর জয়ন্তী/डॉ॰ बाबासाहेब आंबेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "বাংলা নববর্ষ/बंगाली नव वर्ष/Bengali New Year"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "মে দিবস/मई दिन/May Day"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "গুরু রবীন্দ্রনাথ জয়ন্তী/गुरु रबीन्द्रनाथ जयंती/Guru Rabindranath Jayanti"
+            },
+            {
+              "date": "12",
+              "Reason_EN": "ঈদ-উল-ফিতর/ईद उल-फ़ित्र(रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ঈদ-উল-আজহা/ईद अल-अज़हा/EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "স্বাধীনতা দিবস/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "গান্ধী জয়ন্তী/ गांधी जयंती/GANDHI JAYANTHI"
+            },
+            {
+              "date": "6",
+              "Reason_EN": "মহালয়া/महालया अमावस्या/Mahalaya Amavasya"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "মহাসপ্তমী / মহাঅষ্টমী/महा सप्तमी/ महा अष्टमी/Maha Saptami/ Maha Ashtami"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "মহানবমী/महा नवमी/Maha Navami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "বিজয়া দশমী/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "দীপাবলি/দিওয়ালি/दिवाली/दीपावली/DIWALI/DEEPAVALI "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "গুরু নানকের জন্মদিন/गुरू नानक जयंती/GURU NANAK'S BIRTHDAY"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "ক্রিসমাস/क्रिसमस/CHRISTMAS"
+            }
+          ]
+        },
+        "28": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/ Ram Navami"
+            }
+          ],
+          "5": [
+            {
+              "date": "13",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "गांधी जयंती/Gandhi Jayanti"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "29": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [
+            {
+              "date": "27",
+              "Reason_EN": "गुरु रविदास जयंती/Guru Ravidas Jayanti"
+            }
+          ],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "शहादत इमाम हुसैन 10 वीं मोहरम/SHAHADAT IMAM HUSSAIN 10th MOHARAM"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "महर्षि वाल्मीकि जयंती/Maharishi Valmiki Jayanti"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "30": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "मुहर्रम/Muharram"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "गणेश चतुर्थी/Ganesh Chaturthi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "31": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "शहादत इमाम हुसैन 10 वीं मोहरम/SHAHADAT IMAM HUSSAIN 10th MOHARAM"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "कार्तिका पूर्णिमा / गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "32": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "उगादि/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर / वैसाखी/Dr. B R AMBEDKAR BIRTHDAY / Vaisakh"
+            }
+          ],
+          "5": [
+            {
+              "date": "7",
+              "Reason_EN": "जमात-उल-विदा/Jumat-ul-Wida"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "शब-ए-क़द्र/Shab-i-Qadr"
+            },
+            {
+              "date": "12",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "6",
+              "Reason_EN": "गुरु हरगोबिंद जी का जन्मदिन/Guru Hargobind Ji's Birthday"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "शहीद दिवस/Martyrs' Day"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "मुहर्रम/Muharram"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "गांधी जयंती/Gandhi Jayanti"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "ईद-ए-मिलाद/Eid-e-Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti "
+            }
+          ],
+          "12": [
+            {
+              "date": "5",
+              "Reason_EN": "शेख मुहम्मद अब्दुल्ला जयंती/Sheikh Muhammad Abdullah Jayanti"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "33": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "11",
+              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "उगादि/UGADI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "7",
+              "Reason_EN": "जमात-उल-विदा/JAMAT-ul-Wida"
+            },
+            {
+              "date": "10",
+              "Reason_EN": "शब-ए-क़द्र/Shab-i-Qadr"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ईद दुल -फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "5",
+              "Reason_EN": "गुरु हरगोबिंदजी का जन्मदिन/Guru Hargobindji's Birthday"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "शहीद दिवस/Martyrs’ Day"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "शहादत इमाम हुसैन 10 वीं मोहरम/SHAHADAT IMAM HUSSAIN 10th MOHARAM"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "जन्माष्टमी/Janmashtami"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            },
+            {
+              "date": "22",
+              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad के बाद शुक्रवार/Friday following Eid e Milad"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "5",
+              "Reason_EN": "शेख मुहम्मद अब्दुल्ला जयंती/Sheikh Muhammad Abdullah Jayanti"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "34": {
+          "1": [
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "शहादत इमाम हुसैन 10 वीं मोहरम/SHAHADAT IMAM HUSSAIN 10th MOHARAM"
+            }
+          ],
+          "9": [],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "35": {
+          "1": [
+            {
+              "date": "1",
+              "Reason_EN": "புத்தாண்டு திருநாள்/NEW YEAR'S DAY"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "பொங்கல்/Pongal"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "உழவர் திருநாள்/Uzhavar Thirunal"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "குடியரசு தினம்/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [],
+          "4": [
+            {
+              "date": "1",
+              "Reason_EN": "வங்கிக் கணக்கு இறுதி நாள்/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
+            {
+              "date": "2",
+              "Reason_EN": "புனித வெள்ளி/Good Friday"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "Dr.பி.ஆர். அம்பேத்கர் பிறந்த நாள்/Dr B R Ambedkar Jayanti"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "தொழிலாளர்கள் தினம்/May Day"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "ரம்ஜான்/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "20",
+              "Reason_EN": "பக்ரீத்/BAKRID"
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "சுதந்திர தினம்/INDEPENDENCE DAY"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "டி ஜூர் பரிமாற்ற நாள்/De Jure Transfer Day"
+            }
+          ],
+          "9": [
+            {
+              "date": "10",
+              "Reason_EN": "விநாயகர் சதுர்த்தி/Ganesh Chaturthi"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "மகாத்மா காந்தி ஜெயந்தி/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "மகா நவமி/Maha Navami"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "ஈத் மிலாடி நபி/Eid-E-Milad-Un-Nabi"
+            }
+          ],
+          "11": [
+            {
+              "date": "1",
+              "Reason_EN": "புதுச்சேரி விடுதலை நாள்/Puducherry Liberation Day "
+            },
+            {
+              "date": "4",
+              "Reason_EN": "தீபாவளி/DEEPAVALI"
+            }
+          ],
+          "12": [
+            {
+              "date": "25",
+              "Reason_EN": "கிறிஸ்துமஸ்/CHRISTMAS"
+            }
+          ]
+        }
+      }
+    }
+  }
+]
