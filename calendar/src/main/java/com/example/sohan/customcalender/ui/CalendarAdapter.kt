@@ -125,7 +125,7 @@ class CalendarAdapter(private val mContext: Context, private var mData: ArrayLis
 
         // weekend holiday for 2nd and 4th saturday
         if (dayWeek == Calendar.SATURDAY){
-            val weekOfMonth = cal[Calendar.WEEK_OF_MONTH]
+            val weekOfMonth = cal[Calendar.DAY_OF_WEEK_IN_MONTH]
             if (weekOfMonth == 2 || weekOfMonth == 4){
                 // highlight with red color
                 dateTxt.setTextColor(ContextCompat.getColor(dateTxt.context,
