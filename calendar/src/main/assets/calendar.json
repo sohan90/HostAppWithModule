@@ -3,7 +3,7 @@
     "id": 3,
     "published_at": "2020-12-02T15:39:55.000Z",
     "created_at": "2020-12-02T10:09:52.000Z",
-    "updated_at": "2020-12-25T03:05:22.000Z",
+    "updated_at": "2021-01-22T03:05:22.000Z",
     "calenderdetail": {
       "states": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "id": "10",
-          "name": "ಕರ್ನಾಟಕ/कर्नाटक/Karnataka",
+          "name": "ಕರ್ನಾಟಕ/Karnataka",
           "code": "KA"
         },
         {
@@ -98,7 +98,7 @@
         },
         {
           "id": "18",
-          "name": "ओडिशा/Odisha",
+          "name": "ଓଡ଼ିଶା/ओडिशा/Odisha",
           "code": "OR"
         },
         {
@@ -238,7 +238,7 @@
           "7": [
             {
               "date": "21",
-              "Reason_EN": "ఈద్ అల్-అజ్ హా /ईद अल-अज़हा/EID UL AZHA  "
+              "Reason_EN": "ఈద్ అల్-అజ్ హా /ईद अल-अज़हा/EID UL AZHA (Bakrid)"
             }
           ],
           "8": [
@@ -251,7 +251,7 @@
               "Reason_EN": "మొహర్రం/मुहर्रम/MOHARAM"
             },
             {
-              "date": "31",
+              "date": "30",
               "Reason_EN": "శ్రీ కృష్ణాష్టమి/श्रीकृष्ण अष्टमी/SRI KRISHNA ASTAMI"
             }
           ],
@@ -316,109 +316,22 @@
               "Reason_EN": "गुड फ्राइडे/Good Friday"
             },
             {
-              "date": "8",
-              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
-            },
-            {
-              "date": "14",
+              "date": "15",
               "Reason_EN": "बोहग बिहू/Bohag Bihu"
             }
           ],
           "5": [
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
             }
           ],
           "6": [],
           "7": [],
-          "8": [
-            {
-              "date": "15",
-              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
-            }
-          ],
-          "9": [],
-          "10": [
-            {
-              "date": "2",
-              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
-            },
-            {
-              "date": "13",
-              "Reason_EN": "महा अष्टमी/Maha Ashtami"
-            },
-            {
-              "date": "15",
-              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
-            }
-          ],
-          "11": [
-            {
-              "date": "4",
-              "Reason_EN": "दीवाली(दीपावली)/Diwali "
-            },
-            {
-              "date": "19",
-              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
-            }
-          ],
-          "12": [
-            {
-              "date": "25",
-              "Reason_EN": "क्रिसमस/Christmas"
-            }
-          ]
-        },
-        "2": {
-          "1": [
-            {
-              "date": "15",
-              "Reason_EN": "माघ बिहु/Magh Bihu"
-            },
-            {
-              "date": "26",
-              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
-            },
-            {
-              "date": "31",
-              "Reason_EN": "मे-डम-मे-फी/Me-Dum-Me-Phi"
-            }
-          ],
-          "2": [],
-          "3": [
-            {
-              "date": "29",
-              "Reason_EN": "होली/HOLI"
-            }
-          ],
-          "4": [
-            {
-              "date": "2",
-              "Reason_EN": "गुड फ्राइडे/Good Friday"
-            },
-            {
-              "date": "14",
-              "Reason_EN": "बोहग बिहू/Bohag Bihu"
-            }
-          ],
-          "5": [
-            {
-              "date": "1",
-              "Reason_EN": "मई दिवस/May Day"
-            },
-            {
-              "date": "12",
-              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
-            }
-          ],
-          "6": [],
-          "7": [
-            {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
-            }
-          ],
           "8": [
             {
               "date": "15",
@@ -452,6 +365,118 @@
           ],
           "12": [
             {
+              "date": "1",
+              "Reason_EN": "स्वदेशी आस्था दिवस/Indigenous Faith Day"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "क्रिसमस/Christmas"
+            }
+          ]
+        },
+        "2": {
+          "1": [
+            {
+              "date": "15",
+              "Reason_EN": "माघ बिहु/Magh Bihu"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
+            }
+          ],
+          "2": [],
+          "3": [
+            {
+              "date": "28",
+              "Reason_EN": "डोल जात्रा/Dol Jatra"
+            },
+            {
+              "date": "29",
+              "Reason_EN": "होली/HOLI"
+            }
+          ],
+          "4": [
+            {
+              "date": "14",
+              "Reason_EN": "बोहग बिहू/Bohag Bihu"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "बोहग बिहू/Bohag Bihu"
+            },
+            {
+              "date": "16",
+              "Reason_EN": "बोहग बिहू/Bohag Bihu"
+            }
+          ],
+          "5": [
+            {
+              "date": "1",
+              "Reason_EN": "मई दिवस/May Day"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            }
+          ],
+          "6": [],
+          "7": [
+            {
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+            }
+          ],
+          "8": [
+            {
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "मुहर्रम/Muharram"
+            }
+          ],
+          "9": [
+            {
+              "date": "8",
+              "Reason_EN": "श्रीमंत संस्कारदेव की तीथि  /Tithi of Srimanta sankardeva"
+            }
+          ],
+          "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
+            },
+            {
+              "date": "13",
+              "Reason_EN": "दुर्गा पूजा/बिजोया दशमी/Durga Puja/Bijoya Dashami"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "दुर्गा पूजा/बिजोया दशमी/Durga Puja/Bijoya Dashami"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "दुर्गा पूजा/बिजोया दशमी/Durga Puja/Bijoya Dashami"
+            },
+            {
+              "date": "18",
+              "Reason_EN": "कटि बिहू/Kati Bihu"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "लक्ष्मी पूजा/Lakshmi Puja/"
+            }
+          ],
+          "11": [
+            {
+              "date": "4",
+              "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            }
+          ],
+          "12": [
+            {
               "date": "25",
               "Reason_EN": "क्रिसमस/Christmas"
             }
@@ -468,18 +493,18 @@
           "3": [
             {
               "date": "22",
-              "Reason_EN": "बिहार दिवस/Bihar Day"
+              "Reason_EN": "बिहार दिवस/Bihar Diwas"
             },
             {
               "date": "29",
               "Reason_EN": "होली/HOLI"
+            },
+            {
+              "date": "30",
+              "Reason_EN": "होली/HOLI"
             }
           ],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
             {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
@@ -499,7 +524,7 @@
               "Reason_EN": "मई दिवस/May Day"
             },
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
           ],
@@ -507,7 +532,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  / Eid Al-Azha  "
+              "Reason_EN": "ईद अल-अज़हा  / Eid Al-Azha (Bakrid) "
             }
           ],
           "8": [
@@ -531,6 +556,10 @@
               "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
             },
             {
+              "date": "13",
+              "Reason_EN": "महाष्टमी/Mahaashtmi"
+            },
+            {
               "date": "14",
               "Reason_EN": "महा नवमी/Maha Navami"
             },
@@ -546,6 +575,10 @@
             },
             {
               "date": "10",
+              "Reason_EN": "छठ पूजा/Chhath Puja"
+            },
+            {
+              "date": "11",
               "Reason_EN": "छठ पूजा/Chhath Puja"
             }
           ],
@@ -611,7 +644,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -643,12 +676,8 @@
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             },
             {
-              "date": "19",
+              "date": "18",
               "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
-            },
-            {
-              "date": "22",
-              "Reason_EN": "ईद ए मिलाद के बाद शुक्रवार/Friday following Eid e Milad"
             }
           ],
           "11": [
@@ -682,6 +711,10 @@
           "2": [],
           "3": [
             {
+              "date": "19",
+              "Reason_EN": "मुक्ति दिवस/LIBERATION DAY"
+            },
+            {
               "date": "29",
               "Reason_EN": "होली/HOLI"
             }
@@ -710,7 +743,7 @@
               "Reason_EN": "मई दिवस/May Day"
             },
             {
-              "date": "13",
+              "date": "12",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
           ],
@@ -718,7 +751,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -731,6 +764,10 @@
             {
               "date": "10",
               "Reason_EN": "गणेश चतुर्थी/Ganesh Chaturthi"
+            },
+            {
+              "date": "11",
+              "Reason_EN": "गणेश चतुर्थी/Ganesh Chaturthi Holiday"
             }
           ],
           "10": [
@@ -784,47 +821,35 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "બેંક વાર્ષિક બંધ/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
-              "date": "2",
-              "Reason_EN": "ઇસ્ટર પહેલાંનો શુક્રવાર/गुड फ्राइडे/GOOD FRIDAY"
-            },
-            {
-              "date": "13",
-              "Reason_EN": "તેલુગુ નવું વર્ષ/उगादी/UGADI"
-            },
-            {
               "date": "14",
               "Reason_EN": "ડૉ. બાબાસાહેબ આંબેડકરનો જન્મદિન/डॉ॰ बाबासाहेब आंबेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
             },
             {
               "date": "21",
               "Reason_EN": "શ્રી રામ નવમી/श्री राम नवमी/Shri Rama Navami"
+            },
+            {
+              "date": "25",
+              "Reason_EN": "મહાવીર જન્મ કલ્યાંક/महावीर जन्म कल्याणक/Mahavir Janma Kalyank"
             }
           ],
           "5": [
             {
-              "date": "12",
-              "Reason_EN": "રમઝાન ઈદ (ઈદ ઉલ ફિત્ર)/ईद उल-फ़ित्र(रमजान)/EID UL FITR (RAMZAN)"
+              "date": "14",
+              "Reason_EN": "રમઝાન ઈદ (ઈદ ઉલ ફિત્ર)/ભગવાન પરશુરામ જયંતિ/ईद उल-फ़ित्र(रमजान)/भगवान परशुराम जयंती/EID UL FITR (RAMZAN)/Bhagawan parshuram Jayanti"
             }
           ],
           "6": [],
           "7": [
             {
               "date": "21",
-              "Reason_EN": "બકરી ઈદ /ईद अल-अज़हा /EID UL AZHA  "
+              "Reason_EN": "બકરી ઈદ /ईद अल-अज़हा /EID UL AZHA (Bakrid)"
             }
           ],
           "8": [
             {
               "date": "15",
               "Reason_EN": "સ્વાતંત્ર્ય દિન/स्वतंत्रता दिवस/INDEPENDENCE DAY"
-            },
-            {
-              "date": "17",
-              "Reason_EN": "પારસી નવું વર્ષ/पारसी नववर्ष/Parsi New Year"
             },
             {
               "date": "19",
@@ -855,12 +880,8 @@
               "Reason_EN": "દશેરા (વિજયા દશમી)/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             },
             {
-              "date": "18",
-              "Reason_EN": "મિલાદૂન નાબી/ ईद-ए-मिलादुन्नबी /Eid-E-Milad-Un-Nabi"
-            },
-            {
               "date": "19",
-              "Reason_EN": "ઈદ એ મિલાદ/मुहम्मद साहब जन्मदिन/Prophet's Birthday"
+              "Reason_EN": "મિલાદૂન નાબી/ ईद-ए-मिलादुन्नबी /Eid-E-Milad-Un-Nabi"
             },
             {
               "date": "31",
@@ -874,15 +895,7 @@
             },
             {
               "date": "5",
-              "Reason_EN": "નૂતન વર્ષ દિન (બેસતું વર્ષ)/गुजराती नया साल/Gujarati New Year"
-            },
-            {
-              "date": "15",
               "Reason_EN": "વિક્રમ સંવત નવું વર્ષ/विक्रम संवत नव वर्ष/Vikram Samvat New Year"
-            },
-            {
-              "date": "19",
-              "Reason_EN": "ગુરુ નાનકનો જન્મદિવસ/गुरु नानक जयंती/GURU NANAK'S BIRTHDAY"
             }
           ],
           "12": [
@@ -915,6 +928,10 @@
           ],
           "3": [
             {
+              "date": "8",
+              "Reason_EN": "महर्षि दयानंद सरस्वती/Maharishi Dayanand Saraswati"
+            },
+            {
               "date": "11",
               "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
             },
@@ -929,12 +946,8 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
-              "date": "8",
-              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
+              "date": "2",
+              "Reason_EN": "गुड फ्राइडे/Good Friday"
             },
             {
               "date": "14",
@@ -951,14 +964,22 @@
           ],
           "5": [
             {
-              "date": "12",
-              "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+              "date": "14",
+              "Reason_EN": "ईद दुल - फित्र (रमजान)/परशुराम जयंती/EID UL FITR (RAMZAN)/Parshuram Jayanti"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुध पूर्णिमा/Budh Purnima"
             }
           ],
           "6": [
             {
               "date": "13",
-              "Reason_EN": "महाराणा प्रताप जयंती / महाराजा अग्रसेन जयंती/Maharana Pratap Jayanti/Maharaja Agrasen Jayanti"
+              "Reason_EN": "महाराणा प्रताप जयंती /Maharana Pratap Jayanti"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "गुरु अर्जन देव शहीदी दिवस/ Guru Arjan Dev shaheedi Diwas"
             },
             {
               "date": "24",
@@ -967,8 +988,8 @@
           ],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             },
             {
               "date": "31",
@@ -977,12 +998,16 @@
           ],
           "8": [
             {
-              "date": "10",
-              "Reason_EN": "मुहर्रम/Muharram"
+              "date": "11",
+              "Reason_EN": "हरियालीतेज/HaryaliTeej"
             },
             {
               "date": "15",
               "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "मुहर्रम/Muharram"
             },
             {
               "date": "22",
@@ -1005,20 +1030,24 @@
               "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
             },
             {
-              "date": "11",
-              "Reason_EN": "हरियाली तीज/Haryali Teej/Haryali Teej"
+              "date": "7",
+              "Reason_EN": "महाराजा अग्रसेन जयंती/Maharaja agrasen Jayanti"
             },
             {
               "date": "15",
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             },
             {
-              "date": "18",
+              "date": "19",
               "Reason_EN": "ईद-ए-मिलादुन्नबी/Eid-E-Milad-Un-Nabi"
             },
             {
               "date": "20",
-              "Reason_EN": "महर्षि परशुराम जयंती / महर्षि वाल्मीकि जयंती/Maharshi Parasuram Jayanti/Maharishi Valmiki Jayanti"
+              "Reason_EN": "/ महर्षि वाल्मीकि जयंती/Maharishi Valmiki Jayanti"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "करवाचौथ/Karwachauth"
             }
           ],
           "11": [
@@ -1031,8 +1060,20 @@
               "Reason_EN": " दीपावली/Deepavali"
             },
             {
+              "date": "5",
+              "Reason_EN": " विश्वकर्मा दिवस / गोवर्धन पूजा/Vishwakarma Day/Govardhan puja"
+            },
+            {
+              "date": "10",
+              "Reason_EN": " छठ पूजा/Chhatth puja"
+            },
+            {
               "date": "19",
               "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "गुरु तेग बहादुर शहीदी दिवस/ Guru Teg Bahadur shaheedi Divas"
             }
           ],
           "12": [
@@ -1114,7 +1155,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -1133,6 +1174,10 @@
           ],
           "9": [],
           "10": [
+            {
+              "date": "2",
+              "Reason_EN": "महात्मा गांधी जयंती/Mahatma Gandhi Jayanti"
+            },
             {
               "date": "20",
               "Reason_EN": "महर्षि परशुराम जयंती / महर्षि वाल्मीकि जयंती/Maharshi Parasuram Jayanti/Maharishi Valmiki Jayanti"
@@ -1174,7 +1219,7 @@
             },
             {
               "date": "28",
-              "Reason_EN": "सरहुल/Sarhul"
+              "Reason_EN": "होलिका दहन/Holika Dahan"
             },
             {
               "date": "29",
@@ -1187,12 +1232,16 @@
               "Reason_EN": "गुड फ्राइडे/Good Friday"
             },
             {
-              "date": "8",
-              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Poornima"
-            },
-            {
               "date": "14",
               "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+            },
+            {
+              "date": "15",
+              "Reason_EN": "सरहुल/Sarhul"
+            },
+            {
+              "date": "21",
+              "Reason_EN": "राम नवमी/Ram Navmi"
             },
             {
               "date": "25",
@@ -1201,20 +1250,24 @@
           ],
           "5": [
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुद्ध पूर्णिमा/BUDHA PURNIMA"
             }
           ],
           "6": [],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
             {
-              "date": "10",
+              "date": "19",
               "Reason_EN": "मुहर्रम/Muharram"
             },
             {
@@ -1226,7 +1279,12 @@
               "Reason_EN": "जन्माष्टमी/Janmashtami"
             }
           ],
-          "9": [],
+          "9": [
+            {
+              "date": "17",
+              "Reason_EN": "कर्म पूजा/Karma Puja"
+            }
+          ],
           "10": [
             {
               "date": "2",
@@ -1245,7 +1303,7 @@
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             },
             {
-              "date": "16",
+              "date": "19",
               "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
             }
           ],
@@ -1274,7 +1332,7 @@
           "1": [
             {
               "date": "14",
-              "Reason_EN": "ಮಕರ ಸಂಕ್ರಾಂತಿ/मकर संक्रान्ति/MAKARA SHANKARANTI"
+              "Reason_EN": "ಉತ್ತರಾಯಣ ಪುಣ್ಯಕಲ ಮಕರ ಶಂಕರಂತಿ/मकर संक्रान्ति/UTTARAYANA PUNYAKALA MAKARA SHANKARANTI"
             },
             {
               "date": "26",
@@ -1324,7 +1382,7 @@
           "7": [
             {
               "date": "21",
-              "Reason_EN": "ಬಕ್ರೀದ್/ईद अल-अज़हा/EID UL AZHA  "
+              "Reason_EN": "ಬಕ್ರೀದ್/ईद अल-अज़हा/EID UL AZHA (Bakrid)"
             }
           ],
           "8": [
@@ -1333,7 +1391,7 @@
               "Reason_EN": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ/स्वतंत्रता दिवस/INDEPENDENCE DAY"
             },
             {
-              "date": "19",
+              "date": "20",
               "Reason_EN": "ಮೊಹರಂ ಕಡೇ ದಿನ/मुहर्रम/MOHARAM"
             }
           ],
@@ -1436,7 +1494,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ബക്രീദ്/ईद अल-अज़हा /EID UL AZHA "
+              "Reason_EN": "ബക്രീദ്/ईद अल-अज़हा /EID UL AZHA (Bakrid)"
             }
           ],
           "8": [
@@ -1540,7 +1598,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -1568,7 +1626,7 @@
               "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
             },
             {
-              "date": "16",
+              "date": "18",
               "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
             },
             {
@@ -1622,10 +1680,6 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विविध प्रकरणांची वार्षिक बंदी/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
               "date": "2",
               "Reason_EN": "गुड फ्रायडे/गुड फ्राइडे/Good Friday"
             },
@@ -1664,7 +1718,7 @@
           "7": [
             {
               "date": "21",
-              "Reason_EN": "ईद-ऊल-अझा (बकरी ईद)  /ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद-ऊल-अझा (बकरी ईद)  /ईद अल-अज़हा  /EID UL AZHA (BAKRID)  "
             }
           ],
           "8": [
@@ -1678,7 +1732,7 @@
             },
             {
               "date": "19",
-              "Reason_EN": "मोहरम/मुहर्रम/Muharram"
+              "Reason_EN": "मोहरम/मुहर्रम/Moharum"
             }
           ],
           "9": [
@@ -1688,7 +1742,7 @@
             }
           ],
           "10": [
-            {
+             {
               "date": "2",
               "Reason_EN": "महात्मा गांधी जयंती/महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
             },
@@ -1729,6 +1783,10 @@
               "Reason_EN": "नए साल का दिन/New Years Day"
             },
             {
+              "date": "25",
+              "Reason_EN": "इमोइनु इरतपा/Imoinu Iratpa"
+            },
+            {
               "date": "26",
               "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
             }
@@ -1743,12 +1801,8 @@
             {
               "date": "21",
               "Reason_EN": "याओसांग दूसरा दिन/Yaosang 2nd Day"
-            },
-            {
-              "date": "29",
-              "Reason_EN": "होली/HOLI"
             }
-          ],
+           ],
           "4": [
             {
               "date": "1",
@@ -1773,15 +1827,19 @@
               "Reason_EN": "मई दिवस/May Day"
             },
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
           ],
           "6": [],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "12",
+              "Reason_EN": "कांग (रथजतरा) /Kang(Rathajatra) "
+            },
+            {
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -1792,10 +1850,6 @@
             {
               "date": "15",
               "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
-            },
-            {
-              "date": "30",
-              "Reason_EN": "जन्माष्टमी/Janmashtami"
             }
           ],
           "9": [],
@@ -1805,12 +1859,16 @@
               "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
             },
             {
+              "date": "7",
+              "Reason_EN": "लरिंगथौ सनमाही का मेरा चौरेन होबा/Mera Chaoren Houba of Laringthou Sanamahi"
+            },
+            {
               "date": "13",
               "Reason_EN": "महा अष्टमी/Maha Ashtami"
             },
             {
-              "date": "15",
-              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+              "date": "19",
+              "Reason_EN": "मिलाद-उन-नबी/Milad-un-Nabi"
             }
           ],
           "11": [
@@ -1821,16 +1879,16 @@
             {
               "date": "4",
               "Reason_EN": "दीवाली(दीपावली)/Diwali "
+            },
+            {
+              "date": "6",
+              "Reason_EN": "निंगोल चक्कौबा/Ningol Chakkouba"
             }
           ],
           "12": [
             {
               "date": "25",
               "Reason_EN": "क्रिसमस/Christmas"
-            },
-            {
-              "date": "30",
-              "Reason_EN": "नववर्ष की पूर्वसंध्या/New Year's Eve"
             }
           ]
         },
@@ -1854,29 +1912,29 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
             }
           ],
           "5": [
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
           ],
           "6": [],
           "7": [
             {
+              "date": "11",
+              "Reason_EN": "बीह देिनिखम/Beh Deinkhiam"
+            },
+           {
               "date": "17",
               "Reason_EN": "यू तिरोट गाओ दिवस/U Tirot Sing Day"
             },
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -1910,7 +1968,7 @@
               "Reason_EN": "दीवाली(दीपावली)/Diwali "
             },
             {
-              "date": "13",
+              "date": "12",
               "Reason_EN": "वांगला महोत्सव/Wangala Festival"
             },
             {
@@ -1920,16 +1978,28 @@
           ],
           "12": [
             {
+              "date": "12",
+              "Reason_EN": "पा-तोगम नेंगमिनजा संगमा/Pa-Togam Nengminja Sangama"
+            },
+            {
               "date": "18",
               "Reason_EN": "यू सोसो थाम की पुण्यतिथि/Death Anniversary of U SoSo Tham"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "क्रिसमस त्यौहार/Christmas Festival"
             },
             {
               "date": "25",
               "Reason_EN": "क्रिसमस/Christmas"
             },
             {
+              "date": "26",
+              "Reason_EN": "क्रिसमस छुट्टी का दिन/Christmas Holiday"
+            },
+            {
               "date": "30",
-              "Reason_EN": "उ किआंग नंगबाह"
+              "Reason_EN": "उ किआंग नंगबाह/U Kiang Nangbah"
             }
           ]
         },
@@ -1940,22 +2010,27 @@
               "Reason_EN": "नए साल का दिन/New Years Day"
             },
             {
+              "date": "2",
+              "Reason_EN": "नए साल का उत्सव/New Year Celebration"
+            },
+            {
               "date": "26",
               "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
             }
           ],
-          "2": [],
+          "2": [ 
+            {
+              "date": "20",
+              "Reason_EN": "राज्य का दिन/STATE DAY"
+            }
+          ],
           "3": [
             {
-              "date": "29",
-              "Reason_EN": "होली/HOLI"
+              "date": "5",
+              "Reason_EN": "चापचर कुट/Chapchar Kut"
             }
           ],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
             {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
@@ -1963,29 +2038,25 @@
           ],
           "5": [
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
           ],
-          "6": [],
-          "7": [
+          "6": [
             {
-              "date": "17",
-              "Reason_EN": "यू तिरोट गाओ दिवस"
+              "date": "15",
+              "Reason_EN": "YMA दिन/YMA DAY"
             },
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "30",
+              "Reason_EN": "रेमना नी/Remna Ni"
             }
           ],
+          "7": [],
           "8": [
             {
               "date": "15",
               "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
-            },
-            {
-              "date": "30",
-              "Reason_EN": "जन्माष्टमी/Janmashtami"
             }
           ],
           "9": [],
@@ -1994,11 +2065,7 @@
               "date": "2",
               "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
             },
-            {
-              "date": "14",
-              "Reason_EN": "महा नवमी/Maha Navami"
-            },
-            {
+           {
               "date": "15",
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             }
@@ -2009,26 +2076,26 @@
               "Reason_EN": "दीवाली(दीपावली)/Diwali "
             },
             {
-              "date": "13",
-              "Reason_EN": "वांगला महोत्सव/Wangala Festival"
-            },
-            {
-              "date": "23",
-              "Reason_EN": "सेंग कुट स्नेम/Seng Kut Snem"
+              "date": "19",
+              "Reason_EN": "गुरु नानक का जन्मदिन/Guru Nanak's Birthday"
             }
-          ],
+            ],
           "12": [
             {
-              "date": "18",
-              "Reason_EN": "यू सोसो थाम की पुण्यतिथि/Death Anniversary of U SoSo Tham"
+              "date": "24",
+              "Reason_EN": "क्रिसमस की पूर्व संध्या/ChristmasEve"
             },
             {
               "date": "25",
-              "Reason_EN": "क्रिसमस/Christmas"
+              "Reason_EN": "क्रिसमस/Christmas day"
+            },
+           {
+              "date": "27",
+              "Reason_EN": "क्रिसमस समारोह/Christmas Celebration"
             },
             {
-              "date": "30",
-              "Reason_EN": "उ किआंग नंगबाह/U Kiang Nangbah"
+              "date": "31",
+              "Reason_EN": "नववर्ष की पूर्वसंध्या/New Year's Eve"
             }
           ]
         },
@@ -2044,47 +2111,34 @@
             }
           ],
           "2": [],
-          "3": [
-            {
-              "date": "29",
-              "Reason_EN": "होली/HOLI"
-            }
-          ],
+          "3": [],
           "4": [
+            {
+              "date": "1",
+              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+            },
             {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
-            },
-            {
-              "date": "3",
-              "Reason_EN": "ईस्टर शनिवार/Easter Saturday"
-            },
-            {
-              "date": "4",
-              "Reason_EN": "ईस्टर रविवार/Easter Sunday"
             }
-          ],
+           ],
           "5": [
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
           ],
           "6": [],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
             {
               "date": "15",
               "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
-            },
-            {
-              "date": "30",
-              "Reason_EN": "जन्माष्टमी/Janmashtami"
             }
           ],
           "9": [],
@@ -2094,18 +2148,10 @@
               "Reason_EN": "महात्मा गांधी जयंती/MAHATMA GANDHI JAYANTHI"
             },
             {
-              "date": "14",
-              "Reason_EN": "महा नवमी/Maha Navami"
-            },
-            {
               "date": "15",
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
-            },
-            {
-              "date": "18",
-              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
             }
-          ],
+           ],
           "11": [
             {
               "date": "4",
@@ -2118,8 +2164,24 @@
           ],
           "12": [
             {
+              "date": "1",
+              "Reason_EN": "राज्य का उद्घाटन दिवस/State Inauguration day"
+            },
+            {
+              "date": "24",
+              "Reason_EN": "क्रिसमस दिन/Christmas day"
+            },
+            {
               "date": "25",
-              "Reason_EN": "क्रिसमस/Christmas"
+              "Reason_EN": "क्रिसमस दिन/Christmas day"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "क्रिसमस दिन/Christmas day"
+            },
+            {
+              "date": "27",
+              "Reason_EN": "क्रिसमस दिन/Christmas day"
             }
           ]
         },
@@ -2161,7 +2223,11 @@
             },
             {
               "date": "14",
-              "Reason_EN": "ଡ: ଆମ୍ବେଦକର ଜୟନ୍ତୀ/डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
+              "Reason_EN": "ଡ: ଆମ୍ବେଦକର ଜୟନ୍ତୀ/ମହା ବିଷ୍ଣୁ ସଙ୍କ୍ରାନ୍ତୀ |/डॉ. बी आर अम्बेडकर जयंती/महा विष्णु संक्रांति/DR.B.R. AMBEDKAR BIRTHDAY/Maha Vishuba Sankranti"
+            },
+           {
+              "date": "19",
+              "Reason_EN": "କାର୍ତ୍ତିକା ପୂର୍ଣ୍ଣିମା |/ कार्तिक पूर्णिमा/ Karthika Purnima"
             },
             {
               "date": "21",
@@ -2294,10 +2360,6 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "ਅਕਾਉਂਟ ਡੇਅ ਦਾ ਅੰਤਮ ਸਮਾਪਤੀ/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
               "date": "6",
               "Reason_EN": "ਮਹਾਵੀਰ ਜੈਅੰਤੀ/महावीर जयंती/Mahavir Jayanti"
             },
@@ -2329,7 +2391,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ਈਦ ਉਲ ਅਜ਼ਹਾ /ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ਈਦ ਉਲ ਅਜ਼ਹਾ /ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             },
             {
               "date": "31",
@@ -2379,7 +2441,7 @@
             },
             {
               "date": "20",
-              "Reason_EN": "ਮਹਾਰਿਸ਼ੀ ਪਰਸੂਰਾਮ ਜੈਯੰਤੀ / ਮਹਾਰਿਸ਼ੀ ਵਾਲਮੀਕਿ ਜਯੰਤੀ/महर्षि परशुराम जयंती/महर्षि वाल्मीकि जयंती/Maharshi Parasuram Jayanti/Maharishi Valmiki Jayanti"
+              "Reason_EN": "ਮਹਾਰਿਸ਼ੀ ਪਰਸੂਰਾਮ ਜੈਯੰਤੀ / ਮਹਾਰਿਸ਼ੀ ਵਾਲਮੀਕਿ ਜਯੰਤੀ/Maharshi Parasuram Jayanti/Maharishi Valmiki Jayanti"
             }
           ],
           "11": [
@@ -2389,7 +2451,15 @@
             },
             {
               "date": "4",
-              "Reason_EN": "ਦੀਵਾਲੀ / ਦੀਪਾਵਲੀ/दिवाली/दीपावली/DIWALI/DEEPAVALI "
+              "Reason_EN": "ਦੀਵਾਲੀ / दिवाली/DIWALI"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "ਬੁੱਧ ਪੂਰਨਿਮਾ/बुद्ध पूर्णिमा/Buddha Purnima "
+            },
+           {
+              "date": "15",
+              "Reason_EN": "ਦੀਪਵਾਲੀ ਛੁੱਟੀ/ दीपावली अवकाश/Deepavali Holiday "
             },
             {
               "date": "19",
@@ -2431,10 +2501,6 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
             },
@@ -2444,7 +2510,7 @@
             },
             {
               "date": "14",
-              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY/वैसाखी"
+              "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/DR.B.R. AMBEDKAR BIRTHDAY"
             },
             {
               "date": "21",
@@ -2464,13 +2530,13 @@
           "6": [
             {
               "date": "13",
-              "Reason_EN": "महाराणा प्रताप जयंती / महाराजा अग्रसेन जयंती/Maharana Pratap Jayanti/Maharaja Agrasen Jayanti"
+              "Reason_EN": "महाराणा प्रताप जयंती /Maharana Pratap Jayanti"
             }
           ],
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -2530,15 +2596,15 @@
           "11": [
             {
               "date": "4",
-              "Reason_EN": "दीवाली/ दीपावली/Diwali/Dipawali "
+              "Reason_EN": "दीवाली/Diwali"
             },
             {
               "date": "6",
               "Reason_EN": "भाई दूज /Bhai Dooj"
             },
             {
-              "date": "6",
-              "Reason_EN": "दीपावली/Dipawali"
+              "date": "15",
+              "Reason_EN": "दीपावली/Deepavali Holiday"
             },
             {
               "date": "19",
@@ -2555,12 +2621,12 @@
         "21": {
           "1": [
             {
-              "date": "14",
-              "Reason_EN": "मकर संक्रांति/Makara Sankranti"
+              "date": "1",
+              "Reason_EN": "नए साल का दिन/New Year's Day"
             },
             {
-              "date": "25",
-              "Reason_EN": "सोनम लोसार/Sonam Losar"
+              "date": "14",
+              "Reason_EN": "मकर संक्रांति/Makara Sankranti"
             },
             {
               "date": "26",
@@ -2569,8 +2635,8 @@
           ],
           "2": [
             {
-              "date": "26",
-              "Reason_EN": " Losar"
+              "date": "12",
+              "Reason_EN": "सोनम लोसार/Sonam Losar"
             }
           ],
           "3": [
@@ -2580,11 +2646,7 @@
             }
           ],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
+           {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
             },
@@ -2593,18 +2655,18 @@
               "Reason_EN": "डॉ. बी आर अम्बेडकर जयंती/Dr B R AMBEDKAR Jayanti"
             },
             {
+              "date": "16",
+              "Reason_EN": "राज्य दिवस/State Day"
+            },
+            {
               "date": "21",
               "Reason_EN": "राम नवमी/ Ram Navami"
             }
           ],
           "5": [
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
-            },
-            {
-              "date": "16",
-              "Reason_EN": "राज्य दिवस/State Day"
             }
           ],
           "6": [],
@@ -2614,8 +2676,12 @@
               "Reason_EN": "भानु जयंती/Bhanu Jayanti"
             },
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "14",
+              "Reason_EN": "द्रुक्पा त्चची/Drukpa Tshechi"
+            },
+            {
+              "date": "19",
+              "Reason_EN": "गुरु रिंपोछे का थुंगकर सेंचू /Guru Rimpoche's Thungkar Tshechu "
             }
           ],
           "8": [
@@ -2634,7 +2700,11 @@
           ],
           "9": [
             {
-              "date": "30",
+              "date": "9",
+              "Reason_EN": "तीज (हरितालिका)/Teej (Haritalika)"
+            },
+            {
+              "date": "20",
               "Reason_EN": "इंद्र जात्रा/Indra Jatra"
             }
           ],
@@ -2645,43 +2715,39 @@
             },
             {
               "date": "13",
-              "Reason_EN": "महा सप्तमी / महा अष्टमी/Maha Ashtami"
+              "Reason_EN": "दुर्गापूजा (दासैन)/Durgapuja (dasain)"
             },
             {
               "date": "14",
-              "Reason_EN": "महा नवमी/Maha Navami"
+              "Reason_EN": "दुर्गापूजा (दासैन)/Durgapuja (dasain)"
             },
             {
               "date": "15",
-              "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+              "Reason_EN": "दुर्गापूजा (दासैन)/Durgapuja (dasain)"
+            },
+           {
+              "date": "16",
+              "Reason_EN": "दुर्गापूजा (दासैन)/Durgapuja (dasain)"
             }
           ],
           "11": [
             {
               "date": "4",
-              "Reason_EN": "दीवाली/ दीपावली/Diwali/Dipawali "
+              "Reason_EN": "लक्ष्मी पूजा (दीपावली)/Laxmi Puja (Deepawali) "
+            },
+            {
+              "date": "5",
+              "Reason_EN": "लक्ष्मी पूजा (दीपावली)/Laxmi Puja (Deepawali) "
             },
             {
               "date": "6",
-              "Reason_EN": "लहाब दुचेन / भाई दूज/Lhabab Duchen/Bhai Dooj"
-            },
-            {
-              "date": "15",
-              "Reason_EN": "दीपावली/Dipawali"
-            },
-            {
-              "date": "19",
-              "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
+              "Reason_EN": "लक्ष्मी पूजा (दीपावली)/Laxmi Puja (Deepawali) "
             }
-          ],
+            ],
           "12": [
             {
               "date": "25",
               "Reason_EN": "क्रिसमस/Christmas"
-            },
-            {
-              "date": "30",
-              "Reason_EN": "तामू लोसर/tamu Losar"
             }
           ]
         },
@@ -2815,7 +2881,7 @@
           "3": [
             {
               "date": "11",
-              "Reason_EN": "మహా శివరాత్రి//महाशिवरात्रि"
+              "Reason_EN": "మహా శివరాత్రి//महाशिवरात्रि/MAHA SHIVARATRI"
             },
             {
               "date": "29",
@@ -2918,6 +2984,10 @@
         },
         "24": {
           "1": [
+             {
+              "date": "23",
+              "Reason_EN": "नेताजी का जन्मदिन/Netaji's Birthday"
+            },
             {
               "date": "26",
               "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
@@ -2929,71 +2999,58 @@
               "Reason_EN": "वसंत पंचमी/Vasant Panchami"
             }
           ],
-          "3": [
-            {
-              "date": "11",
-              "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
-            },
-            {
-              "date": "29",
-              "Reason_EN": "होली/HOLI"
-            }
-          ],
+          "3": [],
           "4": [
             {
               "date": "1",
               "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
             },
             {
-              "date": "2",
-              "Reason_EN": "गुड फ्राइडे/Good Friday"
+              "date": "14",
+              "Reason_EN": "बीजू महोत्सव/Biju Festival"
             },
             {
               "date": "15",
               "Reason_EN": "बंगाली नव वर्ष / गरिया पूजा/Bengali New Year /Garia Puja"
+            },
+           {
+              "date": "21",
+              "Reason_EN": "गरिया पूजा/Garia Puja"
             }
           ],
           "5": [
             {
-              "date": "1",
-              "Reason_EN": "मई दिवस/May Day"
-            },
-            {
-              "date": "8",
-              "Reason_EN": "Guru Rabindranath Jayanti"
-            },
-            {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             },
             {
-              "date": "24",
-              "Reason_EN": "काजी नजरूल इस्लाम जयंती/Kazi Nazrul Islam Jayanti"
+              "date": "26",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Purnima"
             }
           ],
           "6": [],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA(Bakrid)  "
             },
             {
-              "date": "27",
+              "date": "17",
               "Reason_EN": "खारची पूजा/Kharchi Puja"
+            },
+           {
+              "date": "31",
+              "Reason_EN": "केर पूजा/Ker Puja"
             }
           ],
           "8": [
             {
-              "date": "10",
+              "date": "19",
               "Reason_EN": "मुहर्रम/Muharram"
             },
             {
               "date": "15",
               "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
-            },
-            {
-              "date": "30",
-              "Reason_EN": "जन्माष्टमी/Janmashtami"
             }
           ],
           "9": [],
@@ -3006,9 +3063,13 @@
               "date": "6",
               "Reason_EN": "महालया अमावस्या/Mahalaya Amavasye"
             },
+           {
+              "date": "12",
+              "Reason_EN": "महा सप्तमी/Maha Saptmi"
+            },
             {
               "date": "13",
-              "Reason_EN": "महा सप्तमी/ महा अष्टमी/Maha Saptmi/Maha Ashtami"
+              "Reason_EN": "महा अष्टमी/Maha Ashtami"
             },
             {
               "date": "14",
@@ -3019,8 +3080,8 @@
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             },
             {
-              "date": "18",
-              "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
+              "date": "20",
+              "Reason_EN": "लक्ष्मी पूजा/Lakshmi Puja"
             }
           ],
           "11": [
@@ -3043,15 +3104,20 @@
               "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
             }
           ],
-          "2": [],
-          "3": [
-            {
-              "date": "9",
+          "2": [
+           {
+              "date": "26",
               "Reason_EN": "हजरत अली जयंती/Hazrat Ali Jayanti"
-            },
+            }
+          ],
+          "3": [
             {
               "date": "11",
               "Reason_EN": "महाशिवरात्रि/Maha Shivaratri"
+            },
+           {
+              "date": "28",
+              "Reason_EN": "होलिका दहन/Holika dehan"
             },
             {
               "date": "29",
@@ -3059,10 +3125,6 @@
             }
           ],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
             {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
@@ -3082,20 +3144,24 @@
           ],
           "5": [
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "26",
+              "Reason_EN": "बुध पूर्णिमा/Budh Purnima"
             }
           ],
           "6": [],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
             {
-              "date": "10",
+              "date": "19",
               "Reason_EN": "मुहर्रम/Muharram"
             },
             {
@@ -3126,7 +3192,7 @@
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             },
             {
-              "date": "18",
+              "date": "19",
               "Reason_EN": "ईद ए मिलाद/Eid-e-Milad"
             }
           ],
@@ -3135,15 +3201,15 @@
               "date": "4",
               "Reason_EN": "दीवाली/ दीपावली/Diwali/Dipawali "
             },
+           {
+              "date": "5",
+              "Reason_EN": "गोवर्धन पूजा/Govardhan pooja"
+            },
             {
-              "date": "4",
+              "date": "6",
               "Reason_EN": "भाई दूज/Bhai Dooj"
             },
-            {
-              "date": "15",
-              "Reason_EN": "दीपावली/Dipawali"
-            },
-            {
+           {
               "date": "19",
               "Reason_EN": "गुरू नानक जयंती/ Guru Nanak Jayanti"
             }
@@ -3175,12 +3241,12 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
+            },
+            {
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Purnima"
             },
             {
               "date": "14",
@@ -3201,7 +3267,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA(Bakrid)  "
             }
           ],
           "8": [
@@ -3236,7 +3302,7 @@
           "11": [
             {
               "date": "4",
-              "Reason_EN": "दीवाली/दीपावली/Diwali/Dipawali "
+              "Reason_EN": "दीवाली/Diwali "
             },
             {
               "date": "6",
@@ -3244,7 +3310,7 @@
             },
             {
               "date": "15",
-              "Reason_EN": "दीपावली/Dipawali"
+              "Reason_EN": "दीपावली अवकाश/Deepavali Holiday"
             },
             {
               "date": "19",
@@ -3261,6 +3327,10 @@
         "27": {
           "1": [
             {
+              "date": "12",
+              "Reason_EN": "স্বামী বিবেকানন্দ জয়ন্তী/स्वामी विवेकानंद जयंती/Swami Vivekananda Jayanti"
+            },
+          {
               "date": "23",
               "Reason_EN": "নেতাজি সুভাষ চন্দ্র বসু জয়ন্তী/नेताजी सुभाष चन्द्र बोस जयंती/Netaji Subhas Chandra Bose Jayanti"
             },
@@ -3271,25 +3341,17 @@
           ],
           "2": [
             {
-              "date": "4",
-              "Reason_EN": "স্বামী বিবেকানন্দ জয়ন্তী/स्वामी विवेकानन्द जयंती /Swami Vivekananda Jayanti"
-            },
-            {
               "date": "16",
-              "Reason_EN": "বসন্ত পঞ্চমী/वसन्त पञ्चमी/Vasant Panchami"
+              "Reason_EN": "সরস্বতী পূজা (শ্রী পঞ্চমী)/सरस्वती पूजा (श्री पंचमी)/Saraswati Puja (Sree Panchami)"
             }
           ],
           "3": [
             {
-              "date": "29",
-              "Reason_EN": "হোলি/होली/HOLI"
+              "date": "28",
+              "Reason_EN": "ডলজাত্রা/डोलजात्रा/Doljatra"
             }
           ],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "বাৎসরিক হিসাব সমাপ্তি/विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
             {
               "date": "2",
               "Reason_EN": "গুড ফ্রাইডে/गुड फ्राइडे/GOOD FRIDAY"
@@ -3301,6 +3363,10 @@
             {
               "date": "15",
               "Reason_EN": "বাংলা নববর্ষ/बंगाली नव वर्ष/Bengali New Year"
+            },
+           {
+              "date": "25",
+              "Reason_EN": "মহাবীর জয়ন্তী/महावीर जयंती/Mahavir Jayanti"
             }
           ],
           "5": [
@@ -3309,25 +3375,33 @@
               "Reason_EN": "মে দিবস/मई दिन/May Day"
             },
             {
-              "date": "8",
+              "date": "9",
               "Reason_EN": "গুরু রবীন্দ্রনাথ জয়ন্তী/गुरु रबीन्द्रनाथ जयंती/Guru Rabindranath Jayanti"
             },
             {
-              "date": "12",
+              "date": "14",
               "Reason_EN": "ঈদ-উল-ফিতর/ईद उल-फ़ित्र(रमजान)/EID UL FITR (RAMZAN)"
+            },
+           {
+              "date": "26",
+              "Reason_EN": "বুদ্ধ পূর্ণিমা/बुद्ध पूर्णिमा/BUDDHA PURNIMA"
             }
           ],
           "6": [],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ঈদ-উল-আজহা/ईद अल-अज़हा/EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ঈদ-উল-আজহা/ईद अल-अज़हा/EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
             {
               "date": "15",
               "Reason_EN": "স্বাধীনতা দিবস/स्वतंत्रता दिवस/INDEPENDENCE DAY"
+            },
+           {
+              "date": "19",
+              "Reason_EN": "মোহাররম/मुहर्रम/Muharram"
             }
           ],
           "9": [],
@@ -3340,9 +3414,13 @@
               "date": "6",
               "Reason_EN": "মহালয়া/महालया अमावस्या/Mahalaya Amavasya"
             },
+           {
+              "date": "12",
+              "Reason_EN": "মহাসপ্তমী /महा सप्तमी/Maha Saptami"
+            },
             {
               "date": "13",
-              "Reason_EN": "মহাসপ্তমী / মহাঅষ্টমী/महा सप्तमी/ महा अष्टमी/Maha Saptami/ Maha Ashtami"
+              "Reason_EN": "মহাঅষ্টমী/ महा अष्टमी/ Maha Ashtami"
             },
             {
               "date": "14",
@@ -3351,12 +3429,16 @@
             {
               "date": "15",
               "Reason_EN": "বিজয়া দশমী/विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+            {
+              "date": "20",
+              "Reason_EN": "লক্ষ্মী পূজা/लक्ष्मी पूजा/Lakshmi Puja"
             }
           ],
           "11": [
             {
               "date": "4",
-              "Reason_EN": "দীপাবলি/দিওয়ালি/दिवाली/दीपावली/DIWALI/DEEPAVALI "
+              "Reason_EN": "কালী পূজা/काली पूजा/Kali Puja"
             },
             {
               "date": "19",
@@ -3372,7 +3454,11 @@
         },
         "28": {
           "1": [
-            {
+             {
+              "date": "14",
+              "Reason_EN": "मकर संक्राति / पोंगल/Makar Sankrati/ Pongal"
+            },
+           {
               "date": "26",
               "Reason_EN": "गणतंत्र दिवस/REPUBLIC DAY"
             }
@@ -3385,22 +3471,14 @@
             }
           ],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
+           {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
-            },
-            {
-              "date": "21",
-              "Reason_EN": "राम नवमी/ Ram Navami"
             }
-          ],
+            ],
           "5": [
             {
-              "date": "13",
+              "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             },
             {
@@ -3411,8 +3489,8 @@
           "6": [],
           "7": [
             {
-              "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -3425,8 +3503,8 @@
               "Reason_EN": "मुहर्रम/Muharram"
             },
             {
-              "date": "30",
-              "Reason_EN": "जन्माष्टमी/Janmashtami"
+              "date": "21",
+              "Reason_EN": "ओणम (थिरु ओणम दिवस)/Onam(Thiru Onam Day)"
             }
           ],
           "9": [],
@@ -3438,6 +3516,10 @@
             {
               "date": "15",
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
+            },
+           {
+              "date": "19",
+              "Reason_EN": "पैगंबर मोहम्मद का जन्मदिन (ईद-ए-मिलाद)/Prophet Mohammad's Birthday (Id-e-Milad)"
             }
           ],
           "11": [
@@ -3504,17 +3586,17 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
             {
-              "date": "15",
-              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
+              "date": "10",
+              "Reason_EN": "शहादत इमाम हुसैन 10 वीं मोहरम/SHAHADAT IMAM HUSSAIN 10th MOHARAM"
             },
             {
-              "date": "19",
-              "Reason_EN": "शहादत इमाम हुसैन 10 वीं मोहरम/SHAHADAT IMAM HUSSAIN 10th MOHARAM"
+              "date": "15",
+              "Reason_EN": "स्वतंत्रता दिवस/INDEPENDENCE DAY"
             },
             {
               "date": "30",
@@ -3568,26 +3650,14 @@
             }
           ],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
+           {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
-            },
-            {
-              "date": "25",
-              "Reason_EN": "महावीर जयंती/Mahaveer Jayanti"
             }
           ],
           "5": [
-            {
-              "date": "1",
-              "Reason_EN": "मई दिवस/May Day"
-            },
-            {
-              "date": "14",
+           {
+              "date": "13",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
           ],
@@ -3595,7 +3665,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -3675,10 +3745,6 @@
           ],
           "5": [
             {
-              "date": "1",
-              "Reason_EN": "मई दिवस/May Day"
-            },
-            {
               "date": "14",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             },
@@ -3726,7 +3792,7 @@
             },
             {
               "date": "19",
-              "Reason_EN": "कार्तिका पूर्णिमा / गुरू नानक जयंती/ Guru Nanak Jayanti"
+              "Reason_EN": "कार्तिका पूर्णिमा / गुरू नानक जयंती/ Kartika Purnima/ Guru Nanak Jayanti"
             }
           ],
           "12": [
@@ -3756,8 +3822,8 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
+              "date": "8",
+              "Reason_EN": "बुद्ध पूर्णिमा/Buddha Purnima"
             },
             {
               "date": "13",
@@ -3794,12 +3860,12 @@
             },
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
             {
-              "date": "15",
+              "date": "10",
               "Reason_EN": "मुहर्रम/Muharram"
             },
             {
@@ -3818,7 +3884,7 @@
               "Reason_EN": "गांधी जयंती/Gandhi Jayanti"
             },
             {
-              "date": "14",
+              "date": "12",
               "Reason_EN": "विजयादशमी(दशहरा)/Vijaya Dashami(Dussehra)"
             },
             {
@@ -3867,10 +3933,6 @@
           ],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
             },
@@ -3884,10 +3946,6 @@
             }
           ],
           "5": [
-            {
-              "date": "1",
-              "Reason_EN": "मई दिवस/May Day"
-            },
             {
               "date": "7",
               "Reason_EN": "जमात-उल-विदा/JAMAT-ul-Wida"
@@ -3917,7 +3975,11 @@
             },
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
+            },
+            {
+              "date": "21",
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -3985,10 +4047,6 @@
           "3": [],
           "4": [
             {
-              "date": "1",
-              "Reason_EN": "विभिन्न मामलों का वार्षिक समापन/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
-            {
               "date": "2",
               "Reason_EN": "गुड फ्राइडे/Good Friday"
             },
@@ -3999,10 +4057,6 @@
           ],
           "5": [
             {
-              "date": "1",
-              "Reason_EN": "मई दिवस/May Day"
-            },
-            {
               "date": "13",
               "Reason_EN": "ईद दुल - फित्र (रमजान)/EID UL FITR (RAMZAN)"
             }
@@ -4011,7 +4065,7 @@
           "7": [
             {
               "date": "20",
-              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA  "
+              "Reason_EN": "ईद अल-अज़हा  /EID UL AZHA (Bakrid) "
             }
           ],
           "8": [
@@ -4071,6 +4125,10 @@
               "Reason_EN": "உழவர் திருநாள்/Uzhavar Thirunal"
             },
             {
+              "date": "16",
+              "Reason_EN": "உழவர் திருநாள்/Uzhavar Thirunal"
+            },
+            {
               "date": "26",
               "Reason_EN": "குடியரசு தினம்/REPUBLIC DAY"
             }
@@ -4078,10 +4136,6 @@
           "2": [],
           "3": [],
           "4": [
-            {
-              "date": "1",
-              "Reason_EN": "வங்கிக் கணக்கு இறுதி நாள்/ANNUAL CLOSING OF ACCOUNTS DAY"
-            },
             {
               "date": "2",
               "Reason_EN": "புனித வெள்ளி/Good Friday"
@@ -4099,12 +4153,20 @@
             {
               "date": "13",
               "Reason_EN": "ரம்ஜான்/EID UL FITR (RAMZAN)"
+            },
+            {
+              "date": "14",
+              "Reason_EN": "ரம்ஜான்/EID UL FITR (RAMZAN)"
             }
           ],
           "6": [],
           "7": [
             {
               "date": "20",
+              "Reason_EN": "பக்ரீத்/BAKRID"
+            },
+            {
+              "date": "21",
               "Reason_EN": "பக்ரீத்/BAKRID"
             }
           ],
@@ -4145,6 +4207,10 @@
             },
             {
               "date": "4",
+              "Reason_EN": "தீபாவளி/DEEPAVALI"
+            },
+            {
+              "date": "6",
               "Reason_EN": "தீபாவளி/DEEPAVALI"
             }
           ],

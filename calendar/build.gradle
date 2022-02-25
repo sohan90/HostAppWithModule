@@ -5,12 +5,12 @@ apply plugin: 'kotlin-kapt'
 
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 31
     buildToolsVersion "29.0.3"
     defaultConfig {
         //applicationId "com.example.sohan.customcalender"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 31
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
@@ -57,6 +57,7 @@ dependencies {
 
     //
     implementation 'com.github.bumptech.glide:glide:4.11.0'
+
 
 
 }

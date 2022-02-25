@@ -9,26 +9,23 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.io.IOException
 
+
 object InteractiveCalendarApp {
 
     private lateinit var pref: SharedPreferences
 
     lateinit var apiService: Api
 
-    private lateinit var context: Context
-
     fun init(context: Context) {
-        this.context = context
-        InteractiveCalendarApp.context = context
-        initRetrofitLib()
-        initSharedPref()
+        initRetrofitLib(context)
+        initSharedPref(context)
     }
 
-    private fun initSharedPref() {
+    private fun initSharedPref(context: Context) {
         pref = context.getSharedPreferences("", Activity.MODE_PRIVATE)
     }
 
-    private fun initRetrofitLib() {
+    private fun initRetrofitLib(context: Context) {
         val retrofit = Retrofit.Builder()
                 .addConverterFactory(GsonConverterFactory.create())
                 .baseUrl(BuildConfig.BASE_URL)

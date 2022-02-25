@@ -5,11 +5,14 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.*
+import com.bumptech.glide.util.Util
 import com.example.sohan.customcalender.R
+import com.example.sohan.customcalender.util.showPopupWindow
 import java.text.SimpleDateFormat
 import java.util.*
 
 class CustomCalendarView : FrameLayout {
+    private lateinit var listOfYear: List<Int>
     private lateinit var callBack: (Calendar?) -> Unit
     private var events: HashSet<Date>? = null
 
@@ -23,6 +26,7 @@ class CustomCalendarView : FrameLayout {
     companion object {
         private const val DAYS_COUNT = 35
     }
+
     // current displayed month
     private val currentDate = Calendar.getInstance()
 
@@ -32,7 +36,11 @@ class CustomCalendarView : FrameLayout {
         initControl(context)
     }
 
-    constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int) : super(context, attrs, defStyleAttr) {
+    constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int) : super(
+        context,
+        attrs,
+        defStyleAttr
+    ) {
         initControl(context)
     }
 
@@ -79,19 +87,24 @@ class CustomCalendarView : FrameLayout {
 
             // adding one more row in the current month for the  MONTH ends 30 or 31 which was showing in the next month and skipping if is 1st
             // eventually it will show in the next month
-            while (monthBeginningCell >= 5 && calendar.get(Calendar.DAY_OF_MONTH) != 1){
+            while (monthBeginningCell >= 5 && calendar.get(Calendar.DAY_OF_MONTH) != 1) {
                 cells.add(calendar.time)
                 calendar.add(Calendar.DAY_OF_MONTH, 1)
             }
 
             // if the date ends in sunday column then fill the entire row for the beatification till saturday column
-            while(calendar.get(Calendar.DAY_OF_WEEK) != Calendar.SUNDAY){
+            while (calendar.get(Calendar.DAY_OF_WEEK) != Calendar.SUNDAY) {
                 cells.add(calendar.time)
                 calendar.add(Calendar.DAY_OF_MONTH, 1)
             }
 
             // update grid
-            (grid!!.adapter as CalendarAdapter).updateData(cells, this.events, callBack, currentDate)
+            (grid!!.adapter as CalendarAdapter).updateData(
+                cells,
+                this.events,
+                callBack,
+                currentDate
+            )
 
             // update title
             val sdf = SimpleDateFormat("MMMM yyyy", Locale.US)
@@ -113,5 +126,17 @@ class CustomCalendarView : FrameLayout {
             showCalendar(this.events, callBack)
             callBack(null)
         }
+
+        txtDate!!.setOnClickListener {
+            showPopupWindow(it, context, listOfYear) { year ->
+                currentDate.set(Calendar.YEAR, year)
+                showCalendar(this.events, callBack)
+            }
+        }
+    }
+
+
+    fun setListOfYear(listOfYear: List<Int>) {
+        this.listOfYear = listOfYear
     }
 }
