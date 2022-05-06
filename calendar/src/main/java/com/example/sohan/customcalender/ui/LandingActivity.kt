@@ -2,28 +2,20 @@ package com.example.sohan.customcalender.ui
 
 import android.os.Bundle
 import android.text.TextUtils
-import android.util.Log
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.bumptech.glide.Glide
 import com.example.sohan.customcalender.R
 import com.example.sohan.customcalender.model.CalendarDetailResponse
-import com.example.sohan.customcalender.model.CalendarModelResponse
 import com.example.sohan.customcalender.model.ImageResponseModel
 import com.example.sohan.customcalender.model.StateModelResponse
 import com.example.sohan.customcalender.ui.InteractiveCalendarApp.apiService
-import com.example.sohan.customcalender.ui.InteractiveCalendarApp.getJsonDataFromAsset
 import com.example.sohan.customcalender.ui.InteractiveCalendarApp.getStateId
 import com.example.sohan.customcalender.ui.InteractiveCalendarApp.init
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.google.gson.Gson
-import com.google.gson.reflect.TypeToken
 import kotlinx.android.synthetic.main.cust_cal_activity_main.*
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
-import java.lang.NumberFormatException
 import java.util.*
 import kotlin.collections.ArrayList
 import kotlin.collections.HashMap
@@ -45,7 +37,7 @@ class LandingActivity : AppCompatActivity() {
     }
 
     private fun showCalendar(hashSet: HashSet<Date>) {
-        calenderView.showCalendar(hashSet) {
+        cus_cal_calenderView.showCalendar(hashSet) {
             showHolidayDetail(it)
         }
 
@@ -53,11 +45,11 @@ class LandingActivity : AppCompatActivity() {
 
     private fun setListOfYearToCalendarView() {
         val listOfYear = calendarResponse!!.calendar.map { it.year }
-        calenderView.setListOfYear(listOfYear)
+        cus_cal_calenderView.setListOfYear(listOfYear)
     }
 
     private fun setClickListener() {
-        stateSelectionTxt.setOnClickListener {
+        cus_cal_stateSelectionTxt.setOnClickListener {
             showStateListBottomSheetFragment()
         }
         arrow.setOnClickListener {
@@ -76,7 +68,7 @@ class LandingActivity : AppCompatActivity() {
 
     private fun fetchStaticCalendar() {
         lifecycleScope.launch {
-            progressBar.visibility = View.VISIBLE
+            cus_cal_progressBar.visibility = View.VISIBLE
             /* val jsonFileString = getJsonDataFromAsset(applicationContext, "calendar.json")
 
                             val listPersonType = object : TypeToken<ArrayList<CalendarModelResponse>>() {}.type
@@ -92,7 +84,7 @@ class LandingActivity : AppCompatActivity() {
                 e.printStackTrace()
             }
 
-            progressBar.visibility = View.GONE
+            cus_cal_progressBar.visibility = View.GONE
             if (calendarResponse != null) {
                 updateToolBarHeaderForState()
                 val stateId = getStateId()
@@ -118,9 +110,9 @@ class LandingActivity : AppCompatActivity() {
     private fun updateToolBarHeaderForState() {
         val stateId = getStateId()
         if (!TextUtils.isEmpty(stateId)) {
-            stateSelectionTxt.visibility = View.VISIBLE
+            cus_cal_stateSelectionTxt.visibility = View.VISIBLE
             val state = calendarResponse?.states?.firstOrNull { it.id == stateId }
-            stateSelectionTxt.text = state?.name
+            cus_cal_stateSelectionTxt.text = state?.name
         } else {
             //stateSelectionTxt.visibility = View.GONE
         }
@@ -128,7 +120,7 @@ class LandingActivity : AppCompatActivity() {
 
     fun updateCalendarWithHolidays(stateId: String) {
         holidayCalMap.clear()
-        holidayCardView.visibility = View.GONE
+        cus_cal_holidayCardView.visibility = View.GONE
         updateToolBarHeaderForState()
 
         val holidayDateListForCalView: HashSet<Date> = java.util.HashSet()
@@ -180,14 +172,14 @@ class LandingActivity : AppCompatActivity() {
                 val year = cal.get(Calendar.YEAR)
 
                 if (selectedDay == day && selectedMonth == month && selectedYear == year) {
-                    holidayCardView.visibility = View.VISIBLE
-                    holidayDateTxt.text = selectedDay.toString()
-                    holidayReasonTxt.text = mutableEntry.value
+                    cus_cal_holidayCardView.visibility = View.VISIBLE
+                    cus_cal_holidayDateTxt.text = selectedDay.toString()
+                    cus_cal_holidayReasonTxt.text = mutableEntry.value
                     break
                 }
             }
         } else {
-            holidayCardView.visibility = View.GONE
+            cus_cal_holidayCardView.visibility = View.GONE
         }
     }
 }

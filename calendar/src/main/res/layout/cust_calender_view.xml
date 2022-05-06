@@ -23,12 +23,12 @@
             android:layout_centerVertical="true"
             android:padding="5dp"
             android:background="?attr/selectableItemBackground"
-            android:layout_toStartOf="@id/calendar_date_display"
+            android:layout_toStartOf="@id/cu_cal_calendar_date_display"
             android:src="@drawable/ic_baseline_arrow_back_ios_24"/>
 
         <!-- date title -->
         <TextView
-            android:id="@+id/calendar_date_display"
+            android:id="@+id/cu_cal_calendar_date_display"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
@@ -49,13 +49,13 @@
             android:padding="5dp"
             android:layout_centerVertical="true"
             android:background="?attr/selectableItemBackground"
-            android:layout_toEndOf="@id/calendar_date_display"
+            android:layout_toEndOf="@id/cu_cal_calendar_date_display"
             android:src="@drawable/ic_baseline_arrow_forward_ios_24"/>
     </RelativeLayout>
 
     <!-- days header -->
     <LinearLayout
-        android:id="@+id/calendar_header"
+        android:id="@+id/cus_cal_calendar_header"
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:gravity="center_vertical"

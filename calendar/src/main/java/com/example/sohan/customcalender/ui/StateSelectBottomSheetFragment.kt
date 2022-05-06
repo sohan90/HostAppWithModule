@@ -1,6 +1,5 @@
 package com.example.sohan.customcalender.ui
 
-import android.content.DialogInterface
 import android.os.Bundle
 import android.text.TextUtils
 import android.view.LayoutInflater
@@ -47,7 +46,7 @@ class StateSelectBottomSheetFragment : BottomSheetDialogFragment() {
         val stateId = InteractiveCalendarApp.getStateId()
         if (!TextUtils.isEmpty(stateId)) {
             val stateModelResponse = getStateListFromBundle().firstOrNull { it.id == stateId }
-            view.stateTxt.text = stateModelResponse?.name
+            view.cus_cal_stateTxt.text = stateModelResponse?.name
         }
     }
 
@@ -62,8 +61,8 @@ class StateSelectBottomSheetFragment : BottomSheetDialogFragment() {
             dismiss()
         }
 
-        view.recyl.layoutManager = linearLayoutManager
-        view.recyl.adapter = adapter
+        view.cus_cal_recyl.layoutManager = linearLayoutManager
+        view.cus_cal_recyl.adapter = adapter
     }
 
     private fun getStateListFromBundle(): List<StateModelResponse> {

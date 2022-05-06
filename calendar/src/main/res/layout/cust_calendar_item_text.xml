@@ -23,8 +23,8 @@
         android:visibility="invisible" />
 
 
-    <androidx.appcompat.widget.AppCompatTextView
-        android:id="@+id/days"
+    <TextView
+        android:id="@+id/cus_cal_days"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignStart="@id/holiday_background"
@@ -37,10 +37,10 @@
         android:textColor="@android:color/black" />
 
     <View
-        android:id="@+id/under_line"
+        android:id="@+id/cus_cal_under_line"
         android:layout_width="20dp"
         android:layout_height="1dp"
-        android:layout_below="@id/days"
+        android:layout_below="@id/cus_cal_days"
         android:layout_alignStart="@id/holiday_background"
         android:layout_alignEnd="@id/holiday_background"
         android:layout_marginStart="7dp"

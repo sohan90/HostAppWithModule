@@ -5,7 +5,6 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.*
-import com.bumptech.glide.util.Util
 import com.example.sohan.customcalender.R
 import com.example.sohan.customcalender.util.showPopupWindow
 import java.text.SimpleDateFormat
@@ -52,10 +51,10 @@ class CustomCalendarView : FrameLayout {
         inflater.inflate(R.layout.cust_calender_view, this)
 
         // layout is inflated, assign local variables to components
-        header = findViewById<View>(R.id.calendar_header) as LinearLayout
+        header = findViewById<View>(R.id.cus_cal_calendar_header) as LinearLayout
         btnPrev = findViewById<View>(R.id.calendar_prev_button) as ImageView
         btnNext = findViewById<View>(R.id.calendar_next_button) as ImageView
-        txtDate = findViewById<View>(R.id.calendar_date_display) as TextView
+        txtDate = findViewById<View>(R.id.cu_cal_calendar_date_display) as TextView
         grid = findViewById<View>(R.id.calendar_grid) as GridView
         val adapter = CalendarAdapter(getContext(), ArrayList())
         grid!!.adapter = adapter

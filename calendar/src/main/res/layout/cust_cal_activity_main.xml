@@ -8,13 +8,13 @@
     android:layout_height="match_parent">
 
 <RelativeLayout
-    android:id="@+id/activity_main"
+    android:id="@+id/cus_cal_activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.sohan.customcalender.ui.LandingActivity">
 
     <androidx.appcompat.widget.Toolbar
-        android:id="@+id/toolbar"
+        android:id="@+id/cus_cal_toolbar"
         android:layout_width="match_parent"
         android:layout_height="?android:attr/actionBarSize"
         android:background="@color/light_blue" />
@@ -23,20 +23,20 @@
         android:id="@+id/arrow"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignTop="@id/toolbar"
-        android:layout_alignBottom="@id/toolbar"
+        android:layout_alignTop="@id/cus_cal_toolbar"
+        android:layout_alignBottom="@id/cus_cal_toolbar"
         android:layout_centerVertical="true"
         android:padding="5dp"
         android:src="@drawable/ic_baseline_keyboard_backspace_24" />
 
 
-    <androidx.appcompat.widget.AppCompatTextView
-        android:id="@+id/header"
+    <TextView
+        android:id="@+id/cus_cal_header"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@id/arrow"
-        android:layout_alignTop="@id/toolbar"
-        android:layout_alignBottom="@id/toolbar"
+        android:layout_alignTop="@id/cus_cal_toolbar"
+        android:layout_alignBottom="@id/cus_cal_toolbar"
         android:layout_toEndOf="@id/arrow"
         android:gravity="center"
         android:text="@string/calendar"
@@ -44,14 +44,14 @@
         tools:ignore="RelativeOverlap" />
 
 
-    <androidx.appcompat.widget.AppCompatTextView
-        android:id="@+id/stateSelectionTxt"
+    <TextView
+        android:id="@+id/cus_cal_stateSelectionTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignTop="@id/toolbar"
-        android:layout_alignBottom="@id/toolbar"
+        android:layout_alignTop="@id/cus_cal_toolbar"
+        android:layout_alignBottom="@id/cus_cal_toolbar"
         android:layout_alignParentEnd="true"
-        android:layout_toEndOf="@id/header"
+        android:layout_toEndOf="@id/cus_cal_header"
         android:layout_marginStart="5dp"
         android:drawableEnd="@drawable/ic_baseline_arrow_drop_down_24"
         android:gravity="center|end"
@@ -60,25 +60,25 @@
         android:textColor="@android:color/black" />
 
     <com.example.sohan.customcalender.ui.CustomCalendarView
-        android:id="@+id/calenderView"
+        android:id="@+id/cus_cal_calenderView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/toolbar" />
+        android:layout_below="@id/cus_cal_toolbar" />
 
     <View
         android:layout_width="20dp"
         android:layout_height="2dp"
-        android:layout_below="@id/calenderView"
+        android:layout_below="@id/cus_cal_calenderView"
         android:layout_centerHorizontal="true"
         android:visibility="invisible"
         android:background="@android:color/darker_gray" />
 
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/holidayCardView"
+        android:id="@+id/cus_cal_holidayCardView"
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:layout_below="@id/calenderView"
+        android:layout_below="@id/cus_cal_calenderView"
         android:layout_margin="10dp"
         android:visibility="visible"
         app:cardCornerRadius="8dp"
@@ -94,19 +94,19 @@
             android:paddingStart="10dp"
             android:paddingEnd="10dp">
 
-            <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/onthisday"
+            <TextView
+                android:id="@+id/cus_cal_onthisday"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/darker_gray"
                 android:text="@string/on_this_day" />
 
 
-            <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/holidayDateTxt"
+            <TextView
+                android:id="@+id/cus_cal_holidayDateTxt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/onthisday"
+                android:layout_below="@id/cus_cal_onthisday"
                 android:layout_alignStart="@id/holiday_background"
                 android:layout_alignEnd="@id/holiday_background"
                 android:layout_alignTop="@id/holiday_background"
@@ -119,10 +119,10 @@
                 android:textSize="16sp" />
 
             <View
-                android:id="@+id/under_line"
+                android:id="@+id/cus_cal_under_line"
                 android:layout_width="10dp"
                 android:layout_height="1dp"
-                android:layout_below="@id/holidayDateTxt"
+                android:layout_below="@id/cus_cal_holidayDateTxt"
                 android:layout_alignStart="@id/holiday_background"
                 android:layout_alignEnd="@id/holiday_background"
                 android:layout_marginStart="8dp"
@@ -135,17 +135,17 @@
                 android:id="@+id/holiday_background"
                 android:layout_width="28dp"
                 android:layout_height="28dp"
-                android:layout_below="@id/onthisday"
+                android:layout_below="@id/cus_cal_onthisday"
                 android:layout_centerVertical="true"
                 android:layout_marginTop="5dp"
                 android:background="@drawable/holiday_drawable"
                 android:visibility="visible" />
 
-            <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/holidayReasonTxt"
+            <TextView
+                android:id="@+id/cus_cal_holidayReasonTxt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/onthisday"
+                android:layout_below="@id/cus_cal_onthisday"
                 android:layout_alignTop="@id/holiday_background"
                 android:layout_marginStart="10dp"
                 android:layout_toEndOf="@id/holiday_background"
@@ -157,10 +157,10 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/ad_card"
+        android:id="@+id/cus_cal_ad_card"
         android:layout_width="match_parent"
         android:layout_height="120dp"
-        android:layout_below="@id/holidayCardView"
+        android:layout_below="@id/cus_cal_holidayCardView"
         android:layout_margin="10dp"
         android:visibility="visible"
         app:cardCornerRadius="10dp"
@@ -179,7 +179,7 @@
 </RelativeLayout>
 
     <ProgressBar
-        android:id="@+id/progressBar"
+        android:id="@+id/cus_cal_progressBar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"/>

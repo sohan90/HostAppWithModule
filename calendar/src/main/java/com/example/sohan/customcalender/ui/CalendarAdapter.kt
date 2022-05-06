@@ -48,8 +48,8 @@ class CalendarAdapter(private val mContext: Context, private var mData: ArrayLis
         if (view == null) {
             view = mInflater.inflate(R.layout.cust_calendar_item_text, viewGroup, false)
         }
-        val dateTxt: TextView = view!!.findViewById(R.id.days) as TextView
-        val underLine = view.findViewById<View>(R.id.under_line)
+        val dateTxt: TextView = view!!.findViewById(R.id.cus_cal_days) as TextView
+        val underLine = view.findViewById<View>(R.id.cus_cal_under_line)
         val holidayBkg = view.findViewById<View>(R.id.holiday_background)
         val todayBkg = view.findViewById<View>(R.id.today_background)
 

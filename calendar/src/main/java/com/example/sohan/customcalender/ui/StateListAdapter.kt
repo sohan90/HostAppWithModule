@@ -25,8 +25,8 @@ class StateListAdapter(private val stateList: List<StateModelResponse>,
         var selectImg: ImageView? = null
 
         init {
-            stateTxt = view.findViewById(R.id.state_label)
-            selectImg = view.findViewById(R.id.select_img)
+            stateTxt = view.findViewById(R.id.cus_cal_state_label)
+            selectImg = view.findViewById(R.id.cus_cal_select_img)
         }
 
         fun bind(stateModel: StateModelResponse) {

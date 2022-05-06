@@ -9,8 +9,8 @@
     android:paddingBottom="10dp"
     android:orientation="vertical">
 
-    <androidx.appcompat.widget.AppCompatTextView
-        android:id="@+id/state_label"
+    <TextView
+        android:id="@+id/cus_cal_state_label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
@@ -19,7 +19,7 @@
         android:textColor="@color/state_selector" />
 
     <ImageView
-        android:id="@+id/select_img"
+        android:id="@+id/cus_cal_select_img"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
