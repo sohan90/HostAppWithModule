@@ -55,8 +55,8 @@ class CustomCalendarView : FrameLayout {
         btnPrev = findViewById<View>(R.id.calendar_prev_button) as ImageView
         btnNext = findViewById<View>(R.id.calendar_next_button) as ImageView
         txtDate = findViewById<View>(R.id.cu_cal_calendar_date_display) as TextView
-        grid = findViewById<View>(R.id.calendar_grid) as GridView
-        val adapter = CalendarAdapter(getContext(), ArrayList())
+        grid = findViewById<View>(R.id.cus_calendar_grid) as GridView
+        val adapter = CustomCalendarAdapter(getContext(), ArrayList())
         grid!!.adapter = adapter
         setListeners()
     }
@@ -98,7 +98,7 @@ class CustomCalendarView : FrameLayout {
             }
 
             // update grid
-            (grid!!.adapter as CalendarAdapter).updateData(
+            (grid!!.adapter as CustomCalendarAdapter).updateData(
                 cells,
                 this.events,
                 callBack,

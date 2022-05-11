@@ -37,8 +37,7 @@
             android:gravity="center"
             android:padding="5dp"
             android:text="current date"
-            android:textAppearance="@android:style/TextAppearance.Medium"
-            android:textColor="@color/text_blue"
+            android:textColor="@color/cus_text_blue"
             android:textStyle="bold" />
 
         <!-- next button -->
@@ -127,7 +126,7 @@
 
     <!-- days view -->
     <GridView
-        android:id="@+id/calendar_grid"
+        android:id="@+id/cus_calendar_grid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:numColumns="7"/>

@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">CustomCalender</string>
-    <string name="select_state">Select State</string>
-    <string name="on_this_day">On this day</string>
-    <string name="calendar">Calendar</string>
+    <string name="cus_app_name">CustomCalender</string>
+    <string name="cus_select_state">Select State</string>
+    <string name="cus_on_this_day">On this day</string>
+    <string name="cus_calendar">Calendar</string>
 </resources>

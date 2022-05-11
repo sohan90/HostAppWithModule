@@ -12,7 +12,7 @@ import com.example.sohan.customcalender.R
 import java.util.*
 
 
-class CalendarAdapter(private val mContext: Context, private var mData: ArrayList<Date>) :
+class CustomCalendarAdapter(private val mContext: Context, private var mData: ArrayList<Date>) :
         ArrayAdapter<Date>(mContext, R.layout.cust_calendar_item_text, mData) {
 
     private lateinit var currentSelectedMonth: Calendar
@@ -80,7 +80,7 @@ class CalendarAdapter(private val mContext: Context, private var mData: ArrayLis
         todayBkg.visibility = View.INVISIBLE
         holidayBkg.visibility = View.INVISIBLE
         underLine.visibility = View.GONE
-        dateTxt.setTextColor(ContextCompat.getColor(dateTxt.context, R.color.text_blue))
+        dateTxt.setTextColor(ContextCompat.getColor(dateTxt.context, R.color.cus_text_blue))
         dateTxt.setTypeface(null, Typeface.NORMAL)
         dateTxt.visibility = View.VISIBLE
 

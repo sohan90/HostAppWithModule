@@ -16,7 +16,7 @@
         android:layout_centerVertical="true"
         android:text="------"
         android:enabled="false"
-        android:textColor="@color/state_selector" />
+        android:textColor="@color/cus_state_selector" />
 
     <ImageView
         android:id="@+id/cus_cal_select_img"
@@ -24,6 +24,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_centerVertical="true"
-        android:src="@drawable/ic_baseline_check_circle_24" />
+        android:src="@drawable/cus_ic_baseline_check_circle_24" />
 
 </RelativeLayout>

@@ -39,8 +39,8 @@
         android:layout_alignBottom="@id/cus_cal_toolbar"
         android:layout_toEndOf="@id/arrow"
         android:gravity="center"
-        android:text="@string/calendar"
-        android:textColor="@android:color/black"
+        android:text="@string/cus_calendar"
+        android:textColor="#000000"
         tools:ignore="RelativeOverlap" />
 
 
@@ -53,11 +53,11 @@
         android:layout_alignParentEnd="true"
         android:layout_toEndOf="@id/cus_cal_header"
         android:layout_marginStart="5dp"
-        android:drawableEnd="@drawable/ic_baseline_arrow_drop_down_24"
         android:gravity="center|end"
         android:text="------"
         android:padding="5dp"
-        android:textColor="@android:color/black" />
+        android:textColor="@android:color/black"
+        app:drawableEndCompat="@drawable/cus_ic_baseline_arrow_drop_down_24" />
 
     <com.example.sohan.customcalender.ui.CustomCalendarView
         android:id="@+id/cus_cal_calenderView"
@@ -98,8 +98,8 @@
                 android:id="@+id/cus_cal_onthisday"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@android:color/darker_gray"
-                android:text="@string/on_this_day" />
+                android:textColor="@color/cus_darker_gray"
+                android:text="@string/cus_on_this_day" />
 
 
             <TextView
@@ -114,8 +114,7 @@
                 android:layout_centerVertical="true"
                 android:gravity="center"
                 android:text="14"
-                android:textAppearance="@android:style/TextAppearance.Medium"
-                android:textColor="@android:color/black"
+                android:textColor="#000000"
                 android:textSize="16sp" />
 
             <View
@@ -151,7 +150,7 @@
                 android:layout_toEndOf="@id/holiday_background"
                 android:gravity="center"
                 android:text="-----------------"
-                android:textColor="@android:color/black" />
+                android:textColor="#000000" />
 
         </RelativeLayout>
     </androidx.cardview.widget.CardView>
