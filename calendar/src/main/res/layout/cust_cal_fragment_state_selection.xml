@@ -34,8 +34,7 @@
             android:gravity="center|start"
             android:padding="5dp"
             android:text=""
-            android:textColor="@color/cus_black_color"
-            app:drawableEndCompat="@drawable/cus_ic_baseline_arrow_drop_down_24" />
+            android:textColor="@color/cus_black_color" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"

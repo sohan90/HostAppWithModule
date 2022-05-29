@@ -1,5 +1,6 @@
 package com.example.sohan.customcalender.ui
 
+import android.app.Activity
 import android.os.Bundle
 import android.text.TextUtils
 import android.view.View
@@ -20,8 +21,13 @@ import java.util.*
 import kotlin.collections.ArrayList
 import kotlin.collections.HashMap
 import kotlin.collections.HashSet
+import androidx.fragment.app.FragmentActivity
+import androidx.fragment.app.FragmentManager
+import kotlinx.coroutines.runBlocking
 
-class LandingActivity : AppCompatActivity() {
+
+
+class LandingActivity : FragmentActivity() {
 
     private var calendarResponse: CalendarDetailResponse? = null
 
@@ -62,12 +68,12 @@ class LandingActivity : AppCompatActivity() {
             val list = calendarResponse!!.states as ArrayList<StateModelResponse>
             val fragment: BottomSheetDialogFragment =
                 StateSelectBottomSheetFragment.newInstance(list)
-            fragment.show(supportFragmentManager, "bottom_sheet_dialog")
+            fragment.show((this as FragmentActivity).supportFragmentManager, "bottom_sheet_dialog")
         }
     }
 
     private fun fetchStaticCalendar() {
-        lifecycleScope.launch {
+        runBlocking {
             cus_cal_progressBar.visibility = View.VISIBLE
             /* val jsonFileString = getJsonDataFromAsset(applicationContext, "calendar.json")
 
