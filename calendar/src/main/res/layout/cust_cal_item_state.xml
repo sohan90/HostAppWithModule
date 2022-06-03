@@ -9,7 +9,7 @@
     android:paddingBottom="10dp"
     android:orientation="vertical">
 
-    <TextView
+    <com.google.android.material.textview.MaterialTextView
         android:id="@+id/cus_cal_state_label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

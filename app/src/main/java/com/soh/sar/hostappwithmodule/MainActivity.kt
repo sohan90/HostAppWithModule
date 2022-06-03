@@ -3,6 +3,7 @@ package com.soh.sar.hostappwithmodule
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.sohan.customcalender.ui.BlankActivity
 import com.example.sohan.customcalender.ui.LandingActivity
 
 class MainActivity : AppCompatActivity() {

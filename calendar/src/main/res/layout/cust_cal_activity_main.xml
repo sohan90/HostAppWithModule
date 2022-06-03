@@ -30,7 +30,7 @@
         android:src="@drawable/ic_baseline_keyboard_backspace_24" />
 
 
-    <TextView
+    <com.google.android.material.textview.MaterialTextView
         android:id="@+id/cus_cal_header"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
         tools:ignore="RelativeOverlap" />
 
 
-    <TextView
+    <com.google.android.material.textview.MaterialTextView
         android:id="@+id/cus_cal_stateSelectionTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -94,7 +94,7 @@
             android:paddingStart="10dp"
             android:paddingEnd="10dp">
 
-            <TextView
+            <com.google.android.material.textview.MaterialTextView
                 android:id="@+id/cus_cal_onthisday"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -102,7 +102,7 @@
                 android:text="@string/cus_on_this_day" />
 
 
-            <TextView
+            <com.google.android.material.textview.MaterialTextView
                 android:id="@+id/cus_cal_holidayDateTxt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

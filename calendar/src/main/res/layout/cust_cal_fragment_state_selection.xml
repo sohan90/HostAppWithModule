@@ -15,7 +15,7 @@
         android:padding="10dp">
 
 
-        <TextView
+        <com.google.android.material.textview.MaterialTextView
             android:id="@+id/cus_cal_label"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -25,7 +25,7 @@
             android:text="@string/cus_select_state"
             android:textColor="@color/cus_black_color" />
 
-        <TextView
+        <com.google.android.material.textview.MaterialTextView
             android:id="@+id/cus_cal_stateTxt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
