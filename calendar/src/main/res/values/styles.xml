@@ -3,9 +3,9 @@
     <!-- Base application theme. -->
     <style name="CusAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/light_blue</item>
-        <item name="colorPrimaryDark">@color/light_blue</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">#B5DCFC</item>
+        <item name="colorPrimaryDark">#B5DCFC</item>
+        <item name="colorAccent">#FF4081</item>
     </style>
 
     <style name="MyBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">

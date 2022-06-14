@@ -7,10 +7,12 @@
     <application>
         <activity
             android:name=".ui.BlankActivity"
+            android:theme = "@style/CusAppTheme"
             android:exported="false"
             android:screenOrientation="portrait"/>
         <activity
             android:name=".ui.LandingActivity"
+            android:theme = "@style/CusAppTheme"
             android:screenOrientation="portrait" />
     </application>
 
